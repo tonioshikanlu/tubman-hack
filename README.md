@@ -43,16 +43,6 @@
   <p align="center">
     This application is a trading platform that is built to foster mentorship, community and education among the black community.
 
-
-    <br />
-    <a href="https://github.com/tonioshikanlu/tubman-hack"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/tonioshikanlu/tubman-hack">View Demo</a>
-    ·
-    <a href="https://github.com/tonioshikanlu/tubman-hack/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tonioshikanlu/tubman-hack/issues">Request Feature</a>
   </p>
 </p>
 
