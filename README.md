@@ -92,12 +92,26 @@ We found out through research was that the black community severely lags behind 
 
 Tubman is a truly free market brokerage platform that is made for the people by the people and is specifically aimed at building community, fostering mentorship and education among the black community. This will help in the upskilling of this community which has previously shied away from the markets because of fear and lack of knowledge. 
 
+### Features
+
+* Portfoilio Management
+* Direct Trade execution on the Free Market
+* One on one mentor matching and connections
+* Sub-Communities for like minded investors to meet and discuss
+* Paper Trading
+* IOS/Android Integration
+* Free Learning tools through various investment courses
+* Follow prmoinenet black traders and emulate their strategies 
+
 ### Built With
 
 * Java (android version)
 * Swift UI (iOS version)
 * Firebase (database integration)
 * Figma (app prototypes)
+
+### Demo
+Video Link(https://youtu.be/wcEXKxaM0ek)
 
 
 <!-- GETTING STARTED -->
