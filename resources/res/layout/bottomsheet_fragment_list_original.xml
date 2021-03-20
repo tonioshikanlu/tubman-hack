@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/activity_parent" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/page_background" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.material.appbar.AppBarLayout android:orientation="vertical" android:id="@+id/appbar" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="0dp">
+            <ViewStub android:id="@+id/viewstub_topbar" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </com.google.android.material.appbar.AppBarLayout>
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@+id/swipeRefreshLayout" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/recyclerView" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <FrameLayout android:id="@+id/container" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/bravo_fragment_loading"/>
+    <FrameLayout android:id="@+id/layer_container" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:id="@+id/loadMoreLayout" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ProgressBar android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/loadMoreProgress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="50dp" android:indeterminateTint="@color/bravoPurple"/>
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,93 @@
+package androidx.constraintlayout.solver.widgets;
+
+import androidx.constraintlayout.solver.Cache;
+import java.util.ArrayList;
+
+public class WidgetContainer extends ConstraintWidget {
+    public ArrayList<ConstraintWidget> mChildren = new ArrayList<>();
+
+    public WidgetContainer() {
+    }
+
+    public WidgetContainer(int i2, int i3) {
+        super(i2, i3);
+    }
+
+    public WidgetContainer(int i2, int i3, int i4, int i5) {
+        super(i2, i3, i4, i5);
+    }
+
+    public void add(ConstraintWidget constraintWidget) {
+        this.mChildren.add(constraintWidget);
+        if (constraintWidget.getParent() != null) {
+            ((WidgetContainer) constraintWidget.getParent()).remove(constraintWidget);
+        }
+        constraintWidget.setParent(this);
+    }
+
+    public void add(ConstraintWidget... constraintWidgetArr) {
+        for (ConstraintWidget add : constraintWidgetArr) {
+            add(add);
+        }
+    }
+
+    public ArrayList<ConstraintWidget> getChildren() {
+        return this.mChildren;
+    }
+
+    public ConstraintWidgetContainer getRootConstraintContainer() {
+        ConstraintWidget parent = getParent();
+        ConstraintWidgetContainer constraintWidgetContainer = this instanceof ConstraintWidgetContainer ? (ConstraintWidgetContainer) this : null;
+        while (parent != null) {
+            ConstraintWidget parent2 = parent.getParent();
+            if (parent instanceof ConstraintWidgetContainer) {
+                constraintWidgetContainer = (ConstraintWidgetContainer) parent;
+            }
+            parent = parent2;
+        }
+        return constraintWidgetContainer;
+    }
+
+    public void layout() {
+        ArrayList<ConstraintWidget> arrayList = this.mChildren;
+        if (arrayList != null) {
+            int size = arrayList.size();
+            for (int i2 = 0; i2 < size; i2++) {
+                ConstraintWidget constraintWidget = this.mChildren.get(i2);
+                if (constraintWidget instanceof WidgetContainer) {
+                    ((WidgetContainer) constraintWidget).layout();
+                }
+            }
+        }
+    }
+
+    public void remove(ConstraintWidget constraintWidget) {
+        this.mChildren.remove(constraintWidget);
+        constraintWidget.setParent((ConstraintWidget) null);
+    }
+
+    public void removeAllChildren() {
+        this.mChildren.clear();
+    }
+
+    public void reset() {
+        this.mChildren.clear();
+        super.reset();
+    }
+
+    public void resetSolverVariables(Cache cache) {
+        super.resetSolverVariables(cache);
+        int size = this.mChildren.size();
+        for (int i2 = 0; i2 < size; i2++) {
+            this.mChildren.get(i2).resetSolverVariables(cache);
+        }
+    }
+
+    public void setOffset(int i2, int i3) {
+        super.setOffset(i2, i3);
+        int size = this.mChildren.size();
+        for (int i4 = 0; i4 < size; i4++) {
+            this.mChildren.get(i4).setOffset(getRootX(), getRootY());
+        }
+    }
+}

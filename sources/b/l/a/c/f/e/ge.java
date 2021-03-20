@@ -1,0 +1,62 @@
+package b.l.a.c.f.e;
+
+import android.os.Parcel;
+import android.os.Parcelable;
+import b.l.a.c.b.a;
+
+public final class ge implements Parcelable.Creator<fe> {
+    public final Object createFromParcel(Parcel parcel) {
+        Parcel parcel2 = parcel;
+        int C0 = a.C0(parcel);
+        boolean z = false;
+        boolean z2 = false;
+        boolean z3 = false;
+        String str = null;
+        String str2 = null;
+        String str3 = null;
+        String str4 = null;
+        String str5 = null;
+        long j2 = 0;
+        while (parcel.dataPosition() < C0) {
+            int readInt = parcel.readInt();
+            switch (65535 & readInt) {
+                case 1:
+                    str = a.L(parcel2, readInt);
+                    break;
+                case 2:
+                    str2 = a.L(parcel2, readInt);
+                    break;
+                case 3:
+                    str3 = a.L(parcel2, readInt);
+                    break;
+                case 4:
+                    j2 = a.u0(parcel2, readInt);
+                    break;
+                case 5:
+                    z = a.n0(parcel2, readInt);
+                    break;
+                case 6:
+                    z2 = a.n0(parcel2, readInt);
+                    break;
+                case 7:
+                    str4 = a.L(parcel2, readInt);
+                    break;
+                case 8:
+                    str5 = a.L(parcel2, readInt);
+                    break;
+                case 9:
+                    z3 = a.n0(parcel2, readInt);
+                    break;
+                default:
+                    a.z0(parcel2, readInt);
+                    break;
+            }
+        }
+        a.S(parcel2, C0);
+        return new fe(str, str2, str3, j2, z, z2, str4, str5, z3);
+    }
+
+    public final /* bridge */ /* synthetic */ Object[] newArray(int i2) {
+        return new fe[i2];
+    }
+}

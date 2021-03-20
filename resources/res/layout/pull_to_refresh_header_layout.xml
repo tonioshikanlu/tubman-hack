@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="70dp">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/default_header_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <TextView android:textColor="#777777" android:gravity="center" android:id="@+id/default_header_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/pull_down_to_refresh"/>
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3dp">
+                <TextView android:textSize="12sp" android:textColor="#777777" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/last_updated"/>
+                <TextView android:textSize="12sp" android:textColor="#777777" android:id="@+id/default_header_time" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/just_now"/>
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:id="@+id/default_header_arrow" android:layout_width="20dp" android:layout_height="40dp" android:layout_centerVertical="true" android:layout_marginStart="-35dp" android:layout_alignStart="@+id/default_header_text"/>
+        <ProgressBar android:id="@+id/default_header_progressbar" android:visibility="invisible" android:layout_width="30dp" android:layout_height="30dp" android:layout_centerVertical="true" android:layout_marginStart="-40dp" android:layout_alignStart="@+id/default_header_text"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="blur_dialog_has_bottom_navigation_bar">true</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="super_bottom_sheet_animate_corner_radius">true</bool>
+    <bool name="super_bottom_sheet_animate_status_bar">true</bool>
+    <bool name="super_bottom_sheet_cancelable">true</bool>
+    <bool name="super_bottom_sheet_cancelableOnTouchOutside">true</bool>
+    <bool name="super_bottom_sheet_isAlwaysExpanded">false</bool>
+    <bool name="super_bottom_sheet_isTablet">false</bool>
+</resources>

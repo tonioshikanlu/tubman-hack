@@ -1,0 +1,4194 @@
+{
+    "jsonVersion": "1.0.0",
+    "id": "01DZ4603RKEVSFT7ST3YCM592G",
+    "hash": "",
+    "version": "694975237",
+    "lastUpdate": "2021-02-24T09:35:42.399Z",
+    "app": {
+        "store": {
+            "name": "Bravo Vision (2020) - Linked",
+            "icon": "https://images.bravostudio.app/rD8x6FPpoelWGh3XZLkdG8OPjndc0MTUTuGQs0FBv08/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2MDNUWDc4MDNaWFFKUTBDQkFYUEEucG5n",
+            "splash": "https://images.bravostudio.app/wMyCfF1mjXyWsxE-WGrzFCZOrQUDuPOtYKKeSAFUYKc/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4VzhGTjAzNzNCQVgzRTdaMzkucG5n",
+            "bundleId": "app.bravostudio.A01DZ4603RKEVSFT7ST3YCM592G",
+            "description": "",
+            "ratingAppAlert": 3
+        },
+        "features": {
+            "auth": false,
+            "firebase": false,
+            "watermark": false,
+            "onesignal": false
+        },
+        "fonts": [
+            {
+                "id": "01E25XRF7286K4YAZ8Z0SYM4XF",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E5AQRRJ5108EYQJ9AGRF677Y-1E5ANOOI5-file"
+            },
+            {
+                "id": "01DZ4603RX0X7SJMZFXAMWZQ4T",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E08D0JVTNCBMPDGPD4SKS3BK-1E1CEKOMC-file"
+            },
+            {
+                "id": "01E46JPCBMPNHJAVCFD3AG7PN5",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E5AQQEJENG855STP402D3CDN-1E5ANNEIF-file"
+            },
+            {
+                "id": "01EB1F6T13ERZ6GVW5C3QHV7GR",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E19ZVJEN3S6KXTYD30J8ZWEJ-1E1CEL1AM-file"
+            },
+            {
+                "id": "01DZ4603S1A99S0MKRX805Z15F",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E08D4PRAJPKE2RP8Q9BDRQGF-1E1CEKT5A-file"
+            },
+            {
+                "id": "01E46JPCBRMPGZKBSW103AXBXX",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ4603RKEVSFT7ST3YCM592G/01E46JPCBRMPGZKBSW103AXBXX"
+            }
+        ],
+        "assets": [
+            {
+                "id": "01EZ9P9G8S16XZPKG4C8R2Y4CP",
+                "type": "image",
+                "url": "https://images.bravostudio.app/ScU-HG8JV8NTOFuvgJoM_eBmWtqD4KJiXcPHQM7jQ9c/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4UzE2WFpQS0c0QzhSMlk0Q1AucG5n"
+            },
+            {
+                "id": "01EZ9P9G8QHZEED9ATYN42P2V8",
+                "type": "image",
+                "url": "https://images.bravostudio.app/dGetbGgfJzlOicdPF2oki7H3aywLoyTPBY3U4bQ1xNY/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4UUhaRUVEOUFUWU40MlAyVjgucG5n"
+            },
+            {
+                "id": "01EZ9P9G8QMBGDZDVNWRBK9QGK",
+                "type": "image",
+                "url": "https://images.bravostudio.app/ua-FGgQW7FE_IezNIGFA5jzhJMoA-cIWNqVCeWn7Wog/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4UU1CR0RaRFZOV1JCSzlRR0sucG5n"
+            },
+            {
+                "id": "01EZ9P9G8MS7KC04ZGC8SKYBK7",
+                "type": "image",
+                "url": "https://images.bravostudio.app/7k2GDxBF896ovE9_znNYTFCM-f2gO4ij8xoeTbruyaE/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4TVM3S0MwNFpHQzhTS1lCSzcucG5n"
+            },
+            {
+                "id": "01EZ9P9G861JMDN7DG8HC0TFBS",
+                "type": "image",
+                "url": "https://images.bravostudio.app/PBFg9IsQYzpJ6yrgcdiecMrlzLGWIa71WEsiuXpXp9o/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4NjFKTURON0RHOEhDMFRGQlMucG5n"
+            },
+            {
+                "id": "01EZ9P9G83Q3GYNV0TRMPYKKFF",
+                "type": "image",
+                "url": "https://images.bravostudio.app/wV2Gw74EXfhpQvaTcaRSII0DUQd9I6S7yMhKNaMb_i8/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4M1EzR1lOVjBUUk1QWUtLRkYucG5n"
+            },
+            {
+                "id": "01EZ9P9G82BZCEE6YXDEHMJ69A",
+                "type": "image",
+                "url": "https://images.bravostudio.app/DPVaFfhMVw0ZqfMFwmtGDuTczBATVKYzodYW2LCjaeM/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4MkJaQ0VFNllYREVITUo2OUEucG5n"
+            },
+            {
+                "id": "01EZ9P9G74R7BWTT93JTT4SNK0",
+                "type": "image",
+                "url": "https://images.bravostudio.app/yhbaMwJeFSFKgseSetesl2epWnEhlQNRz2S8ehPyU2g/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc3NFI3QldUVDkzSlRUNFNOSzAucG5n"
+            },
+            {
+                "id": "01EZ9P9G72NX4NPZ49GDMKTEFZ",
+                "type": "image",
+                "url": "https://images.bravostudio.app/9u9gYxNdfSr_MwnQElPnwqp1IfuyS1afSSiAwUJGEKE/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc3Mk5YNE5QWjQ5R0RNS1RFRloucG5n"
+            },
+            {
+                "id": "01EZ9P9G71M3NEXVNXEC6JV7JG",
+                "type": "image",
+                "url": "https://images.bravostudio.app/FGa4LUa7hUdOBjVb5brR-bBnkxzH2729_Yv2AOGqR2I/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc3MU0zTkVYVk5YRUM2SlY3SkcucG5n"
+            },
+            {
+                "id": "01EZ9P9G6Y4R7TQ371NPWGJEHP",
+                "type": "image",
+                "url": "https://images.bravostudio.app/xo3Ao8jPRJvVJ2u1TcdYZM3g3ctFX31EAZ5afpMMf3U/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2WTRSN1RRMzcxTlBXR0pFSFAucG5n"
+            },
+            {
+                "id": "01EZ9P9G6SG018K959A5Y86NMG",
+                "type": "image",
+                "url": "https://images.bravostudio.app/n8UrWyV78Z823jUUAIxbzDy6tIz8Cj86ARa5UCKDAPo/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2U0cwMThLOTU5QTVZODZOTUcucG5n"
+            },
+            {
+                "id": "01EZ9P9G6RFDT0P5HEATNWX36Y",
+                "type": "image",
+                "url": "https://images.bravostudio.app/gC4v-r6cIptTAce5PHndqwEDFH73lHliOuLCAsFcgx4/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2UkZEVDBQNUhFQVROV1gzNlkucG5n"
+            },
+            {
+                "id": "01EZ9P9G6Q55WZZH4DDG3KVTYE",
+                "type": "image",
+                "url": "https://images.bravostudio.app/qVCKR8raN5jrrGnc84ubJG0wFJ91XSnwxwkemC6wcUk/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2UTU1V1paSDREREczS1ZUWUUucG5n"
+            },
+            {
+                "id": "01EZ9P9G6P9BKTXVWGFR7R5C1X",
+                "type": "image",
+                "url": "https://images.bravostudio.app/IWsClgRvDUrjqztYROufnacI0DLsN8Y4xZesBUcZATQ/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2UDlCS1RYVldHRlI3UjVDMVgucG5n"
+            },
+            {
+                "id": "01EZ9P9G6HX1VVKNVSZMMGQ1ZA",
+                "type": "image",
+                "url": "https://images.bravostudio.app/MqqcYCcdMZ3mECJYWtbyHknF6wyFkiULISUXNRPHoDo/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2SFgxVlZLTlZTWk1NR1ExWkEucG5n"
+            },
+            {
+                "id": "01EZ9P9G6FN8587JMN0EZ22J6D",
+                "type": "image",
+                "url": "https://images.bravostudio.app/6mvP3eliX5ZzV_H9unlJs03KQDc6QNlEA0BT28fxPFg/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2Rk44NTg3Sk1OMEVaMjJKNkQucG5n"
+            },
+            {
+                "id": "01EZ9P9G679MSD3RXHB161W8ZJ",
+                "type": "image",
+                "url": "https://images.bravostudio.app/mfOv20MLewHnWmpa72kKAiW8eEjH8xEE14Iamvkdah4/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2NzlNU0QzUlhIQjE2MVc4WkoucG5n"
+            },
+            {
+                "id": "01EZ9P9G66WZF5XZWC8NS46661",
+                "type": "image",
+                "url": "https://images.bravostudio.app/9MiHrvpT5qR_BmRrEvpKpH36HFcARlBP2UOtDZgCdyE/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2NldaRjVYWldDOE5TNDY2NjEucG5n"
+            },
+            {
+                "id": "01EZ9P9G64SPE0FH33BQRTSYCG",
+                "type": "image",
+                "url": "https://images.bravostudio.app/8mueN31vzygnUSxOrnHvak6zVXmnkuC9BBAmsYD7H8Y/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2NFNQRTBGSDMzQlFSVFNZQ0cucG5n"
+            },
+            {
+                "id": "01EZ9P9G61KQVX7SMNYN5D23WW",
+                "type": "image",
+                "url": "https://images.bravostudio.app/vm4yDFQKvekw5I4Hp9jykgXo8JbVZ4BwiJ1shJlMYvk/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc2MUtRVlg3U01OWU41RDIzV1cucG5n"
+            },
+            {
+                "id": "01EZ9P9G5Q20RK9RH84SDW9QZ4",
+                "type": "image",
+                "url": "https://images.bravostudio.app/sbnRXKlBSe_-jcWKdUf-bG-koqkU2HrqOZScW2GIG8I/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1UTIwUks5Ukg4NFNEVzlRWjQucG5n"
+            },
+            {
+                "id": "01EZ9P9G5MSFXSB4N54HJ4YS4K",
+                "type": "image",
+                "url": "https://images.bravostudio.app/Y5o0BhrWB8cWarhX_XWbMoKoFqQVyQiULOaze1sTBx4/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1TVNGWFNCNE41NEhKNFlTNEsucG5n"
+            },
+            {
+                "id": "01EZ9P9G5JQV5XEBF9WJ4RFXHE",
+                "type": "image",
+                "url": "https://images.bravostudio.app/QxSmTEaGqn2oBB5iicaG8ojodZJ3BJJQ6LpV_cfAaoA/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1SlFWNVhFQkY5V0o0UkZYSEUucG5n"
+            },
+            {
+                "id": "01EZ9P9G5DJNRA30ZCFZ4995S8",
+                "type": "image",
+                "url": "https://images.bravostudio.app/ucUTZT91DyPDQGB4GaBd2iVlEtCt9VWI_diN4ldBBK0/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1REpOUkEzMFpDRlo0OTk1UzgucG5n"
+            },
+            {
+                "id": "01EZ9P9G5C243CF3FATE1E4M07",
+                "type": "image",
+                "url": "https://images.bravostudio.app/lrARNH9d7fbnco7EMvh62Y5HBVAVZ2KquMgwJSg3k30/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1QzI0M0NGM0ZBVEUxRTRNMDcucG5n"
+            },
+            {
+                "id": "01EZ9P9G59V5C8DG92RD98AP5H",
+                "type": "image",
+                "url": "https://images.bravostudio.app/wNsP150M89S5w3qsbQPNCEZlN0ddMSilSkn91wEEJ4E/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1OVY1QzhERzkyUkQ5OEFQNUgucG5n"
+            },
+            {
+                "id": "01EZ9P9G55EPMCQG6S5C7TZHRR",
+                "type": "image",
+                "url": "https://images.bravostudio.app/RgMWdy_DQJ3d8Hyob3G4OAqVAHgBdpoXAuUsDJDJqg4/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1NUVQTUNRRzZTNUM3VFpIUlIucG5n"
+            },
+            {
+                "id": "01EZ9P9G535RQ1FZBPQ9AN7PAX",
+                "type": "image",
+                "url": "https://images.bravostudio.app/XMxubugwIG3vB0p9T4jKLvHzWTx5YiSneLOkmlhXlbk/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc1MzVSUTFGWkJQUTlBTjdQQVgucG5n"
+            },
+            {
+                "id": "01EZ9P9G4TDVN62C8XWVAVDGCS",
+                "type": "image",
+                "url": "https://images.bravostudio.app/Sh-r1qbu55ktJIHwlI97eimznllnDZHne552Sbnt0SI/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc0VERWTjYyQzhYV1ZBVkRHQ1MucG5n"
+            },
+            {
+                "id": "01EZ9P9G4KBN1MCGCFM9Y34G7F",
+                "type": "image",
+                "url": "https://images.bravostudio.app/HuXc1s_5pDBBZ2rVdfJE6Fj3O1tem3k45C74fuTNltY/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc0S0JOMU1DR0NGTTlZMzRHN0YucG5n"
+            },
+            {
+                "id": "01EZ9P9G4CYFTDS8HCJFNYY41G",
+                "type": "image",
+                "url": "https://images.bravostudio.app/vtGYd3siqUOXIG5lsll1ZDE1N-q5XcfEx4PWO5PGsdE/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc0Q1lGVERTOEhDSkZOWVk0MUcucG5n"
+            },
+            {
+                "id": "01EZ9P9G41631GBR5D16H4X8VS",
+                "type": "image",
+                "url": "https://images.bravostudio.app/ospXSoaBYnVX9H0WcJXlO_4YsGbvXHn7Vw6yKdBugQs/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc0MTYzMUdCUjVEMTZINFg4VlMucG5n"
+            },
+            {
+                "id": "01EZ9P9G3KYP2P8E57GHP6ACT8",
+                "type": "image",
+                "url": "https://images.bravostudio.app/0xNlUJNQYWovCVTYVnjpTPhBuWdK4pjY2_XiPkIg8sc/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUczS1lQMlA4RTU3R0hQNkFDVDgucG5n"
+            },
+            {
+                "id": "01EZ9P9G3HDTC6JYAA0BAMR778",
+                "type": "image",
+                "url": "https://images.bravostudio.app/-UT0S8htBp-EQrAY8OERRpqlXWQEm5Eh3mFDX-9t5jw/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUczSERUQzZKWUFBMEJBTVI3NzgucG5n"
+            },
+            {
+                "id": "01EZ9P9G3BTFXVS06HMMZNHX9V",
+                "type": "image",
+                "url": "https://images.bravostudio.app/GJkGGCfFSNzpxYlXBiXnawvgYjdhb8g1oVJyTRtvFQc/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUczQlRGWFZTMDZITU1aTkhYOVYucG5n"
+            },
+            {
+                "id": "01EZ9P9G2QQJZZ5K91GABF6S62",
+                "type": "image",
+                "url": "https://images.bravostudio.app/-2IOPEP_Y3cPNHmveESXPnnhQNLk3SRbYFd6k98_kRU/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcyUVFKWlo1SzkxR0FCRjZTNjIucG5n"
+            },
+            {
+                "id": "01EZ9P9G2PSDY0EBE634C90S2E",
+                "type": "image",
+                "url": "https://images.bravostudio.app/exC-YjikOQIxBSmorlmg-U4AaYkMM_jlDZf4PKecztA/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcyUFNEWTBFQkU2MzRDOTBTMkUucG5n"
+            },
+            {
+                "id": "01EZ9P9G2GJ40ZVHADT2PCXACF",
+                "type": "image",
+                "url": "https://images.bravostudio.app/TJ8_-9YejcMb0MVvckTRYanYdT_Ce7mz4BWW787OsP4/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcyR0o0MFpWSEFEVDJQQ1hBQ0YucG5n"
+            },
+            {
+                "id": "01EZ9P9G25N38PT7F0R0F3YB0Y",
+                "type": "image",
+                "url": "https://images.bravostudio.app/FUMxgtluMpR_k9tRgZsv8pDcMAU-QkM71m7fSd0TXPM/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcyNU4zOFBUN0YwUjBGM1lCMFkucG5n"
+            },
+            {
+                "id": "01EZ9P9G1ZCV5A9SCJ42B6VQM2",
+                "type": "image",
+                "url": "https://images.bravostudio.app/Vx43bcKmOh7r-62VCMObA6SgrK-CC08mvedjvT72PgQ/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcxWkNWNUE5U0NKNDJCNlZRTTIucG5n"
+            },
+            {
+                "id": "01EZ9P9G1XHQA9BCWM8YQQWEG5",
+                "type": "image",
+                "url": "https://images.bravostudio.app/6tJFRkkvMrkOhHCRLTasH5DcDz3pyt4QgSQU3lA30nw/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcxWEhRQTlCQ1dNOFlRUVdFRzUucG5n"
+            },
+            {
+                "id": "01EZ9P9G1WKRG2QC8NHQ6M38CC",
+                "type": "image",
+                "url": "https://images.bravostudio.app/E_d0uv2Y3u2SU4ajKdTagu0-oEAQUxhCWZQVfogfrTw/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUcxV0tSRzJRQzhOSFE2TTM4Q0MucG5n"
+            },
+            {
+                "id": "01EZ9P9G8W8FN0373BAX3E7Z39",
+                "type": "image",
+                "url": "https://images.bravostudio.app/wMyCfF1mjXyWsxE-WGrzFCZOrQUDuPOtYKKeSAFUYKc/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFFWjlQOUc4VzhGTjAzNzNCQVgzRTdaMzkucG5n"
+            },
+            {
+                "id": "01EM68CNE1XAAE3P55JZJTCDKA",
+                "type": "image",
+                "url": "https://prod-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ4603RKEVSFT7ST3YCM592G/01EM68CNE1XAAE3P55JZJTCDKA.gif"
+            },
+            {
+                "id": "01DZ46KERV0650MV99395DHFR5",
+                "type": "image",
+                "url": "https://images.bravostudio.app/8j3Rrwgkx_LGVUbUNNcjCODkUnu05-noqB8UQWfKaLY/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2S0VSVjA2NTBNVjk5Mzk1REhGUjUucG5n"
+            },
+            {
+                "id": "01DZ46KERS1QMAPV9N6YECWFJS",
+                "type": "image",
+                "url": "https://images.bravostudio.app/IfwrW8GrFkAJdpwQ9DY1AwKZu64a6jdjBUSPasU6Bfg/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2S0VSUzFRTUFQVjlONllFQ1dGSlMucG5n"
+            },
+            {
+                "id": "01DZ46KERP92HMZN0HN2RZ422S",
+                "type": "image",
+                "url": "https://images.bravostudio.app/x7XCTxk6ukVXWcNnxGEuw69fNQRzbShVlMQ6oUyADw4/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2S0VSUDkySE1aTjBITjJSWjQyMlMucG5n"
+            },
+            {
+                "id": "01DZ4603WB4K8C0QH4JGYBGY6E",
+                "type": "image",
+                "url": "https://images.bravostudio.app/sb9n8EKv34P0YiHPU66NxBL92SIha3aM5AChfVykmxQ/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2MDNXQjRLOEMwUUg0SkdZQkdZNkUucG5n"
+            },
+            {
+                "id": "01DZ4603W9Z1KZV3GPA9SB9EE5",
+                "type": "image",
+                "url": "https://images.bravostudio.app/_LBn6dk7Z42mvZ1xiyReB0uX7a-UR0D5-e1YckT82mc/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2MDNXOVoxS1pWM0dQQTlTQjlFRTUucG5n"
+            },
+            {
+                "id": "01DZ4603VYV9Q6WJK9XHDRGKG4",
+                "type": "image",
+                "url": "https://images.bravostudio.app/q456QeD2FUCqFC3uCTYc_R-PESeAmZsR19T1X-N3kro/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2MDNWWVY5UTZXSks5WEhEUkdLRzQucG5n"
+            },
+            {
+                "id": "01DZ4603TX7803ZXQJQ0CBAXPA",
+                "type": "image",
+                "url": "https://images.bravostudio.app/rD8x6FPpoelWGh3XZLkdG8OPjndc0MTUTuGQs0FBv08/g:sm/MDFEWjQ2MDNSS0VWU0ZUN1NUM1lDTTU5MkcvMDFEWjQ2MDNUWDc4MDNaWFFKUTBDQkFYUEEucG5n"
+            }
+        ],
+        "styles": [
+            {
+                "id": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                "width": 100,
+                "height": 100,
+                "isFixed": false,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "KYYZMBA0S95GVM58NW2Z7CA7MVG7KGTC",
+                "isFixed": false,
+                "aspectRatio": 0.4612546125461255,
+                "positioning": {
+                    "top": -0.12315270935960591,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                }
+            },
+            {
+                "id": "G5N9QSC99A01A45HZN7ET0KRGV9A1BVJ",
+                "isFixed": false,
+                "aspectRatio": 1.051660516605166,
+                "positioning": {
+                    "top": 33.62068965517241,
+                    "left": 12,
+                    "right": 12,
+                    "bottom": 33.004926108374384
+                }
+            },
+            {
+                "id": "HH4RQ5F0NQA9Y0H9S4QQZMGYWQJJ8244",
+                "color": "#ffffffff",
+                "isFixed": false,
+                "opacity": 75,
+                "fontSize": 24,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 7.451612903225806,
+                "positioning": {
+                    "top": 15.024630541871922,
+                    "left": 19.466666666666665,
+                    "right": 19.466666666666665,
+                    "bottom": 81.40394088669952
+                },
+                "lineHeightPx": 28.125,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "CCY7N9ZFA9GGNTJNWED8DE6J1VCRD84Q",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 4.310344827586207,
+                    "left": 3.733333333333334,
+                    "right": 84,
+                    "bottom": 90.02463054187191
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 5.665024630541872,
+                    "left": 6.666666666666666,
+                    "right": 87.46666666666667,
+                    "bottom": 91.6256157635468
+                }
+            },
+            {
+                "id": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                "width": 100,
+                "height": 100
+            },
+            {
+                "id": "04XV685Z7YNJWTZFCJZ0G0KX7VARQZ1D",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fffff3c5"
+            },
+            {
+                "id": "BB11QNBREWYTBZ4N3J9QD16CE7MSPP54",
+                "width": 100,
+                "height": 12.438423645320198,
+                "isFixed": false,
+                "behavior": "fixed",
+                "aspectRatio": 3.712871287128713,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "JDYJ08EQ4BJ7B7K9FCFTQ8ZK8XD91EJB",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 32.67326732673268,
+                    "left": 3.2,
+                    "right": 84,
+                    "bottom": 19.801980198019802
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "M8ZE8S1T88T2K98YEY7MFYR9PHK3TR9B",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 45.54455445544555,
+                    "left": 6.666666666666666,
+                    "right": 87.46666666666667,
+                    "bottom": 32.67326732673268
+                }
+            },
+            {
+                "id": "7F1P287F89SBW67ZR6DHJED15Z6KJJGH",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 37.62376237623762,
+                    "left": 24.8,
+                    "right": 24.53333333333333,
+                    "bottom": 25.742574257425744
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "FEWKB9ET6C0547ABQ4THT9Q8MABA9RY3",
+                "width": 100,
+                "height": 11.69950738916256,
+                "isFixed": false,
+                "aspectRatio": 3.9473684210526314,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "N2D7H9T80TSRDTEBD24D92PSPBSKJCH1",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 15.789473684210526,
+                    "left": 6.933333333333333,
+                    "right": 75.73333333333333,
+                    "bottom": 15.789473684210526
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "00F6SY7H9NKPZBCTT99PFEM9ENN6PQSP",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 7.111111111111111,
+                "positioning": {
+                    "top": 24.210526315789473,
+                    "left": 28.799999999999997,
+                    "right": 20.533333333333335,
+                    "bottom": 49.473684210526315
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "90EGN4G6CAPNV2RVB3Z65H9XV2NJSB0P",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 14,
+                "textAlign": "left",
+                "fontWeight": 300,
+                "lineHeight": 171.42857360839844,
+                "aspectRatio": 5.1891891891891895,
+                "positioning": {
+                    "top": 47.368421052631575,
+                    "left": 28.799999999999997,
+                    "right": 20.533333333333335,
+                    "bottom": 15.789473684210526
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top",
+                "fontId": "01EB1F6T13ERZ6GVW5C3QHV7GR"
+            },
+            {
+                "id": "SQHK78BA27YX1GHK1H9AQ6NG2JFKWZ69",
+                "isFixed": false,
+                "opacity": 0,
+                "aspectRatio": 3.136842105263158,
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 20.533333333333335,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffc4c4c4"
+            },
+            {
+                "id": "N4MX2GEKFZP6HJ24Q9V4P8FBZ1AGT48C",
+                "isFixed": false,
+                "opacity": 0,
+                "aspectRatio": 0.8105263157894737,
+                "positioning": {
+                    "top": 0,
+                    "left": 79.46666666666667,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffc4c4c4"
+            },
+            {
+                "id": "WHVBSGEJRB0AYR738SN2A13B5G4E8WCD",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fffef8e4"
+            },
+            {
+                "id": "458X6PJW24Y8JZY5PC5VKC5D9G32G4TR",
+                "width": 100,
+                "height": 12.068965517241379,
+                "isFixed": false,
+                "overlay": true,
+                "behavior": "fixed",
+                "aspectRatio": 3.826530612244898,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "B84GAPZFEBBYZHRPGBG88JWG45DPG6YR",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 47.95918367346938,
+                    "left": 6.933333333333333,
+                    "right": 87.73333333333333,
+                    "bottom": 31.63265306122449
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "M2C65T0FKZWHQ7DA27513E4WJBFAN0AV",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 3.417910447761194,
+                "positioning": {
+                    "top": 51.970443349753694,
+                    "left": 19.2,
+                    "right": 20.266666666666666,
+                    "bottom": 40.02463054187192
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "YJJM15D9C4FMCCX3CXP0YASENF35GXN5",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 4.2368421052631575,
+                "positioning": {
+                    "top": 43.84236453201971,
+                    "left": 7.199999999999999,
+                    "right": 7.466666666666668,
+                    "bottom": 47.04433497536946
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "0S2C79GMX63ECQ610J3X9PVPSR3ZXBJ8",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 23.39901477832512,
+                    "left": 28.53333333333333,
+                    "right": 28.799999999999997,
+                    "bottom": 56.896551724137936
+                }
+            },
+            {
+                "id": "HJDMQQT0AH6QMXG43NZNVGEM06SXD7D5",
+                "isFixed": false,
+                "scaleMode": "fit",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.014778325123153,
+                    "left": 30.133333333333333,
+                    "right": 29.86666666666667,
+                    "bottom": 57.512315270935964
+                }
+            },
+            {
+                "id": "PN985DT161ZF54QWQ6JR43K0HRKRDWE0",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffecfee4"
+            },
+            {
+                "id": "G93PH920J04HDX8W9DSEJHFYA7FPTHPS",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 3.5348837209302326,
+                "positioning": {
+                    "top": 44.21182266009852,
+                    "left": 9.866666666666667,
+                    "right": 9.6,
+                    "bottom": 45.44334975369458
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "center"
+            },
+            {
+                "id": "HPQTT8WFX0X59VTF0C2JXD7N7MNBD9MG",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffe4e5fe"
+            },
+            {
+                "id": "WFRXSZ7RQTJVS5E7KGAZMHSBY50SP2FH",
+                "isFixed": false,
+                "aspectRatio": 0.5,
+                "positioning": {
+                    "top": 41.83673469387755,
+                    "left": 6.666666666666667,
+                    "right": 89.33333333333333,
+                    "bottom": 27.55102040816326
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "KW8DXGJPNDE1XKT42456J0P2Z551NTRB",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 4.724137931034483,
+                "positioning": {
+                    "top": 51.970443349753694,
+                    "left": 13.600000000000001,
+                    "right": 13.866666666666665,
+                    "bottom": 41.13300492610838
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "Q5WGS60YQ1E6TNBF8Z84MYKKZ88S7J93",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 1.481081081081081,
+                "positioning": {
+                    "top": 63.177339901477836,
+                    "left": 13.600000000000001,
+                    "right": 13.866666666666665,
+                    "bottom": 14.285714285714285
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "20F24AJTTFV699PTKM9A77QVGEE430QP",
+                "isFixed": false,
+                "scaleMode": "fit",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 27.093596059113302,
+                    "left": 34.13333333333333,
+                    "right": 34.4,
+                    "bottom": 58.3743842364532
+                }
+            },
+            {
+                "id": "D6Z7CZBBSDR82CWVX6KVGWAEFBK1XCZB",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fffee4e6"
+            },
+            {
+                "id": "9H7KCPHZTK4T22N0Z06QQWAC6W6901GJ",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 6.682926829268292,
+                "positioning": {
+                    "top": 63.916256157635466,
+                    "left": 13.866666666666665,
+                    "right": 13.600000000000001,
+                    "bottom": 31.2807881773399
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "4876N9FPFRF5XYAJST8DBJWHNH49JNFD",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 4.2368421052631575,
+                "positioning": {
+                    "top": 54.80295566502463,
+                    "left": 7.199999999999999,
+                    "right": 7.466666666666668,
+                    "bottom": 36.08374384236453
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "S48M7D1VTTYMF8YSS7573BJ16G68NC0T",
+                "isFixed": false,
+                "scaleMode": "fit",
+                "aspectRatio": 1.2522935779816513,
+                "positioning": {
+                    "top": 19.82758620689655,
+                    "left": 16.266666666666666,
+                    "right": 10.933333333333334,
+                    "bottom": 53.32512315270937
+                }
+            },
+            {
+                "id": "5F0227M953G3XCA8TW7DA37192WNQC4C",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 3.5348837209302326,
+                "positioning": {
+                    "top": 51.970443349753694,
+                    "left": 9.866666666666667,
+                    "right": 9.6,
+                    "bottom": 37.68472906403941
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "VY9CVYCWP35Q64ZG3DGKPK0G7W244MP1",
+                "isFixed": false,
+                "aspectRatio": 5.08,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 11.945812807881774
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "H7XPVTYS31GBY2Z9H65FKVSFXWD82XZA",
+                "isFixed": false,
+                "aspectRatio": 5.08,
+                "borderColor": "#ff056d38",
+                "borderWidth": 1.1811023622047243,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 11.945812807881774
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "65FSPQVPK14VJVMED33HF3THK6E9DCGZ",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 11.945812807881774
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center"
+            },
+            {
+                "id": "4RYR6BY2D5Z374DMF15RMHNGVPWRR207",
+                "width": 100,
+                "height": 100,
+                "isFixed": false,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#fff3f6e6"
+            },
+            {
+                "id": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fff3f6e6"
+            },
+            {
+                "id": "912P6XDW2JT52YNE1SM6N7FP8S69Q9FQ",
+                "isFixed": false,
+                "aspectRatio": 5,
+                "positioning": {
+                    "top": 93.96551724137932,
+                    "left": 45.33333333333333,
+                    "right": 45.33333333333333,
+                    "bottom": 5.172413793103448
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "VW30W6NKCN56QCE6HXP2125DEWJQAG4V",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 18,
+                "textAlign": "right",
+                "fontWeight": 700,
+                "aspectRatio": 2.111111111111111,
+                "positioning": {
+                    "top": 92.24137931034483,
+                    "left": 71.2,
+                    "right": 9.066666666666666,
+                    "bottom": 3.571428571428571
+                },
+                "lineHeightPx": 21.09375,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "MFASKT9T87W42MN50E1S1S5239S6ESKS",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 1.852112676056338,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 15.2,
+                    "right": 15.2,
+                    "bottom": 31.03448275862069
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "CH5934EYCRSR1Y9C247FDCYHR1BN45FR",
+                "isFixed": false,
+                "aspectRatio": 1.4266063223639838,
+                "positioning": {
+                    "top": 11.206896551724139,
+                    "left": -24.8,
+                    "right": 19.04091796875,
+                    "bottom": 54.556650246305416
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "5RWPTCK5CSH7VBHAKGQBM4WN6A6D03Y4",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 3.554054054054054,
+                "positioning": {
+                    "top": 72.9064039408867,
+                    "left": 15.2,
+                    "right": 15.2,
+                    "bottom": 18.226600985221676
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "VDTPS1FYWNE078GJAXHZ81SCA242SCSR",
+                "isFixed": false,
+                "scaleMode": "fill",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 43.46666666666666,
+                    "right": 43.2,
+                    "bottom": 42.11822660098522
+                }
+            },
+            {
+                "id": "KPCD6XH877E216QXGE8CBWEMQRDDWCTV",
+                "width": 100,
+                "height": 100,
+                "isFixed": false,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#ffdff4ff"
+            },
+            {
+                "id": "Z7FQ2Y25TC4CYDQAT24V3N3TVKVPTV30",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffdff4ff"
+            },
+            {
+                "id": "VMYXHXRJ9R1D5ES1FB8074P5F9JTBTKM",
+                "color": "#ffd2392e",
+                "isFixed": false,
+                "fontSize": 18,
+                "textAlign": "right",
+                "fontWeight": 700,
+                "aspectRatio": 2.111111111111111,
+                "positioning": {
+                    "top": 92.24137931034483,
+                    "left": 71.2,
+                    "right": 9.066666666666666,
+                    "bottom": 3.571428571428571
+                },
+                "lineHeightPx": 21.09375,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "0G04GBKAE12CEXBJR37446AA4ZPH8VQJ",
+                "color": "#ffd2392e",
+                "isFixed": false,
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 2.176056338028169,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 31.03448275862069
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "MB6436W3W1AH7WPJRBERDKPQ2BD7B69S",
+                "color": "#ffd2392e",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.175675675675675,
+                "positioning": {
+                    "top": 72.9064039408867,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 18.226600985221676
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "6EXNC0YTFBQHKMBD7BJSR90899RJMR6B",
+                "isFixed": false,
+                "aspectRatio": 1.4266063223639838,
+                "positioning": {
+                    "top": 4.80295566502463,
+                    "left": 13.866666666666665,
+                    "right": -19.625748697916666,
+                    "bottom": 60.960591133004925
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "EYRBT3VKR9Y03NQWHEEA4S0X8D8R3YED",
+                "isFixed": false,
+                "aspectRatio": 2.0708960213228362,
+                "positioning": {
+                    "top": 93.47290264561846,
+                    "left": 6.933333333333333,
+                    "right": 84.93333282470704,
+                    "bottom": 4.713313450366993
+                }
+            },
+            {
+                "id": "PHX53X9TVSNQ9YJCAT58D63E4N10N4AH",
+                "width": 100,
+                "height": 100,
+                "isFixed": false,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#fffee4e6"
+            },
+            {
+                "id": "Y6Z96MZT9HS15KA9KC73AD5SAN83CEYT",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 18,
+                "textAlign": "right",
+                "fontWeight": 700,
+                "aspectRatio": 2.111111111111111,
+                "positioning": {
+                    "top": 92.24137931034483,
+                    "left": 71.2,
+                    "right": 9.066666666666666,
+                    "bottom": 3.571428571428571
+                },
+                "lineHeightPx": 21.09375,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "HPMTBB039Z5AXF7S7MRNBVYCB24HSC3W",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.175675675675675,
+                "positioning": {
+                    "top": 72.9064039408867,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 18.226600985221676
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "JPSA184ZBYJP143NJQMQAAZN364D6JPM",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 2.176056338028169,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 31.03448275862069
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "S2ADCNP8GAFNFZP8X8WMENMP5A3ECY0J",
+                "isFixed": false,
+                "aspectRatio": 1.0277080617305738,
+                "positioning": {
+                    "top": 8.374384236453201,
+                    "left": 12.533333333333333,
+                    "right": 6.6666748046875,
+                    "bottom": 55.316406400332895
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "QMC77XH6RE05ARNMCQXPRTXWJZ4NTW35",
+                "isFixed": false,
+                "aspectRatio": 4.233333333333333,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 10.714285714285714
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "VFEFCB574646XF2P067C56F2681DN95K",
+                "isFixed": false,
+                "aspectRatio": 4.233333333333333,
+                "borderColor": "#ff056d38",
+                "borderWidth": 1.1811023622047243,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 10.714285714285714
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "Z2NQ50D5JG2TACGTE8G7Q8ZW7ZVY75WF",
+                "color": "#ff056d38",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 4.129032258064516,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 10.714285714285714
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "RXY9D6TFKQEMKA5PFX6AM84J4DW6EDNE",
+                "isFixed": false,
+                "aspectRatio": 2.0708960213228362,
+                "positioning": {
+                    "top": 93.47315821154363,
+                    "left": 6.933333333333333,
+                    "right": 84.93333282470704,
+                    "bottom": 4.713057884441808
+                }
+            },
+            {
+                "id": "6PEXTGR5VRQJHZG3V6QER010PY00N4Z4",
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 75.98522167487684,
+                    "left": 15.733333333333333,
+                    "right": 17.599999999999998,
+                    "bottom": 19.088669950738915
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "05F05W7QMH509YDSXHXWBREVMMCTTYYS",
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "borderColor": "#ff0146e0",
+                "borderWidth": 0.8,
+                "cornerRadii": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    1.2
+                ],
+                "positioning": {
+                    "top": 75.98522167487684,
+                    "left": 15.733333333333333,
+                    "right": 17.599999999999998,
+                    "bottom": 19.088669950738915
+                },
+                "borderRadius": 1.2,
+                "backgroundColor": "#ffffce1f"
+            },
+            {
+                "id": "MZ1SN5CSV22RJFWPR3024ATPBCBMG4K7",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "lineHeight": 171.42857360839844,
+                "aspectRatio": 5.5969162055042245,
+                "positioning": {
+                    "top": 76.09717834171991,
+                    "left": 19.733333333333334,
+                    "right": 19.733333333333334,
+                    "bottom": 19.31258422400564
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01E46JPCBMPNHJAVCFD3AG7PN5"
+            },
+            {
+                "id": "90FKK98WVG2ND4SBJ4SQJ89ZX0DD74SV",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 89.77832512315271,
+                    "left": 15.733333333333333,
+                    "right": 16.53333333333333,
+                    "bottom": 4.064039408866995
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "B5164VPSTF79Q05SXAMHA9H1T1S5B867",
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 62.19211822660099,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 32.88177339901478
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "JYGJA2WW50J735DX3DEBV4DP20YA35RX",
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "cornerRadii": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    1.2
+                ],
+                "positioning": {
+                    "top": 62.19211822660099,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 32.88177339901478
+                },
+                "borderRadius": 1.2,
+                "backgroundColor": "#ff000000"
+            },
+            {
+                "id": "HACSHBDYR9G0QKMYCKHPYGS6BZX0GZAC",
+                "color": "#ffffffff",
+                "isFixed": false,
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "lineHeight": 171.42857360839844,
+                "aspectRatio": 6.423076923076923,
+                "positioning": {
+                    "top": 63.177339901477836,
+                    "left": 27.46666666666667,
+                    "right": 28.53333333333333,
+                    "bottom": 33.86699507389162
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01E25XRF7286K4YAZ8Z0SYM4XF"
+            },
+            {
+                "id": "X9D10Y0AW79ZBTGTW1PYS6MECT83B7W9",
+                "isFixed": false,
+                "aspectRatio": 0.8137316932009416,
+                "positioning": {
+                    "top": 63.793103448275865,
+                    "left": 29.599999999999998,
+                    "right": 67.24666697184244,
+                    "bottom": 34.41726409742985
+                }
+            },
+            {
+                "id": "NP12YR6M5DDGY87N7GMH03PW4F7DBZJ7",
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 55.29556650246305,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 39.778325123152705
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "2YBEBT3XG8VZPNHX2NX69PXAX7JQ18C1",
+                "shadow": {
+                    "color": "#3d000000",
+                    "offset": {
+                        "x": 0,
+                        "y": 0.4
+                    },
+                    "radius": 0.4
+                },
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "cornerRadii": [
+                    0.8,
+                    0.8,
+                    0.8,
+                    0.8
+                ],
+                "positioning": {
+                    "top": 55.29556650246305,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 39.778325123152705
+                },
+                "borderRadius": 0.8,
+                "backgroundColor": "#ff4285f4"
+            },
+            {
+                "id": "FATRSCYFQEY1ZA2DG693Y7EYNN7W9TP0",
+                "color": "#ffffffff",
+                "isFixed": false,
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "aspectRatio": 7.875,
+                "positioning": {
+                    "top": 56.77339901477833,
+                    "left": 34.13333333333333,
+                    "right": 32.266666666666666,
+                    "bottom": 41.256157635467986
+                },
+                "lineHeightPx": 16.40625,
+                "letterSpacing": 0.21875,
+                "verticalPosition": "from-top",
+                "fontId": "01E46JPCBRMPGZKBSW103AXBXX"
+            },
+            {
+                "id": "0J6K9PJY7YJTCV33GG652KNVGSBEPDJ8",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "cornerRadii": [
+                    2.6315789473684212,
+                    2.6315789473684212,
+                    2.6315789473684212,
+                    2.6315789473684212
+                ],
+                "positioning": {
+                    "top": 55.41871921182266,
+                    "left": 16.53333333333333,
+                    "right": 73.33333333333333,
+                    "bottom": 39.90147783251231
+                },
+                "borderRadius": 2.6315789473684212,
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "N7B5NFW03VM8HVNM4BM2JJWH908HN6NP",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 56.65024630541872,
+                    "left": 19.2,
+                    "right": 76,
+                    "bottom": 41.13300492610838
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "PC4B99PKD5BG635SVS0JY6A3JE5271W5",
+                "isFixed": false,
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 48.399014778325125,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 46.67487684729064
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "Z8GMZPTG5YF5ZN1MFRCGWAQKQX2W0ANK",
+                "isFixed": false,
+                "aspectRatio": 6,
+                "borderColor": "#ff000000",
+                "borderWidth": 0.8,
+                "cornerRadii": [
+                    0.8,
+                    0.8,
+                    0.8,
+                    0.8
+                ],
+                "positioning": {
+                    "top": 48.399014778325125,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 46.67487684729064
+                },
+                "borderRadius": 0.8,
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "HDDFBAMC02JRFMJC4VZMPVK6KFEFM3R8",
+                "isFixed": false,
+                "aspectRatio": 0.6666667040656594,
+                "positioning": {
+                    "top": 49.87684729064039,
+                    "left": 20.622220865885417,
+                    "right": 76.35555674235026,
+                    "bottom": 48.029556650246306
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "XZZ4E4B7WDKR85SZ72R95CVPSW272T2C",
+                "color": "#ff000000",
+                "isFixed": false,
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "aspectRatio": 7.823529411764706,
+                "positioning": {
+                    "top": 49.87684729064039,
+                    "left": 32.266666666666666,
+                    "right": 32.266666666666666,
+                    "bottom": 48.029556650246306
+                },
+                "lineHeightPx": 16.40625,
+                "letterSpacing": 0.21875,
+                "verticalPosition": "from-top",
+                "fontId": "01E25XRF7286K4YAZ8Z0SYM4XF"
+            },
+            {
+                "id": "H5SF90PFKXP2S3ZPSDNBTNRJ4F5VS9J4",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 5.41871921182266,
+                    "left": 84,
+                    "right": 6.4,
+                    "bottom": 90.14778325123153
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "RYRCA08HX38X2RMS15FK72DFV7PR1QZ8",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 100,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 100,
+                "aspectRatio": 1.1529051987767585,
+                "positioning": {
+                    "top": 8.374384236453201,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 51.600985221674875
+                },
+                "lineHeightPx": 100,
+                "letterSpacing": -0.5,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "5K59NGWZ2KJFJEWQ069TWT92Q11H02J7",
+                "isFixed": false,
+                "scaleMode": "fill",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 4.556650246305419,
+                    "left": 5.866666666666666,
+                    "right": 82.13333333333334,
+                    "bottom": 89.90147783251231
+                }
+            },
+            {
+                "id": "7CCNK1152YJW9P5E9ZADZ401RA37BH47",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 1.9259259259259258,
+                "positioning": {
+                    "top": 70.19704433497537,
+                    "left": 42.93333333333334,
+                    "right": 43.733333333333334,
+                    "bottom": 26.72413793103448
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "VWXP4F83ZYY5AE81TADDT38RKGKPYCCE",
+                "width": 100,
+                "height": 100,
+                "isFixed": false,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#fffff3c5"
+            },
+            {
+                "id": "K12EFYG9GSHG1X519AS7SC18ND8MW9TJ",
+                "isFixed": false,
+                "aspectRatio": 0.4618226600985222,
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "ZT64GA7B361WMWYCVG86B7A8CNGYGNY1",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 32,
+                "textAlign": "left",
+                "fontWeight": 700,
+                "aspectRatio": 4.512820512820513,
+                "positioning": {
+                    "top": 9.975369458128078,
+                    "left": 6.666666666666667,
+                    "right": 0,
+                    "bottom": 80.66502463054186
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "WMD40ZKX8B21NZB9749465BN8HTNA00R",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 3.215909090909091,
+                "positioning": {
+                    "top": 28.694581280788178,
+                    "left": 6.666666666666667,
+                    "right": 18.4,
+                    "bottom": 60.71428571428571
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "XS35CCPBRFFH13PJFFXEZBYE4Y2G2ZBG",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.639344262295082,
+                "positioning": {
+                    "top": 47.9064039408867,
+                    "left": 6.666666666666667,
+                    "right": 18.4,
+                    "bottom": 44.827586206896555
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "XN28DWJX49663C1Q3X909Z6S4QH15Q18",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.261083743842367,
+                    "left": 6.666666666666667,
+                    "right": 87.2,
+                    "bottom": 72.9064039408867
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "GP83G78KYQ827JGXRSDNGNJ5SRFS2QEV",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 2.5727272727272728,
+                "positioning": {
+                    "top": 63.255573141163794,
+                    "left": 6.666666666666667,
+                    "right": 18.4,
+                    "bottom": 23.44393424799877
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "RSW6RMJV4A7JJTX5EQ38BBG2KFRPFE8K",
+                "color": "#ff490d82",
+                "fontWeight": 700
+            },
+            {
+                "id": "S6MR494GEWWH8EK4XVKW99QH2G2B3DQP",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 58.86699507389162,
+                    "left": 6.133333333333333,
+                    "right": 86.66666666666667,
+                    "bottom": 37.80788177339902
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "WTCGRWSWZ91AN87HBKRWZ2E2PZZWM9N4",
+                "isFixed": false,
+                "aspectRatio": 0.6868915296109874,
+                "positioning": {
+                    "top": 59.420797412325015,
+                    "left": 7.203337399164836,
+                    "right": 88.80296076138815,
+                    "bottom": 37.894088668482645
+                }
+            },
+            {
+                "id": "SPK5HAK1HM8G2EQYCQC3GGM6E42DCGSA",
+                "isFixed": false,
+                "aspectRatio": 1.6772673699026486,
+                "positioning": {
+                    "top": 58.95320196897526,
+                    "left": 7.443291012446086,
+                    "right": 90.48004231452943,
+                    "bottom": 40.475003847054076
+                }
+            },
+            {
+                "id": "SPRQT4H9F1DVPRMXG9FCJ144ZYVC7YAY",
+                "isFixed": false,
+                "aspectRatio": 0.6086956521739131,
+                "positioning": {
+                    "top": 43.7192118226601,
+                    "left": 7.199999999999999,
+                    "right": 89.06666666666668,
+                    "bottom": 53.44827586206896
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "F6MSRJSH80F6YMSE4N79RPWZ8AFGV1MA",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 4.310344827586207,
+                    "left": 3.733333333333334,
+                    "right": 84.26666666666667,
+                    "bottom": 90.14778325123153
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "RV93E2CKMACKVSM460XT9ZW0GGCQEVCR",
+                "width": 100,
+                "height": 27.46305418719212,
+                "isFixed": false,
+                "behavior": "fixed",
+                "aspectRatio": 1.6816143497757847,
+                "backgroundColor": "#fff3f6e6"
+            },
+            {
+                "id": "JYXM0NE0ASY898WGNCHJ7K836K7MNFEB",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 20.179372197309416,
+                    "left": 6.666666666666667,
+                    "right": 85.33333333333334,
+                    "bottom": 66.3677130044843
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "KC170QSFT8ZBH7QS66FBGJMB4HRAZ4R9",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 40,
+                "textAlign": "left",
+                "fontWeight": 700,
+                "aspectRatio": 4.602564102564102,
+                "positioning": {
+                    "top": 36.32286995515695,
+                    "left": 6.666666666666667,
+                    "right": -1.866666666666667,
+                    "bottom": 29.596412556053814
+                },
+                "lineHeightPx": 46.875,
+                "letterSpacing": -0.2,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "J1TZKTSX9QJ0E3VDNCDBBBS40JZ04TN2",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 20.62780269058296,
+                    "left": 86.4,
+                    "right": 6.666666666666667,
+                    "bottom": 67.71300448430493
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "D40TEPVYQJHVJB6W15JSM0J2V0PKT3HE",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 20.179372197309416,
+                    "left": 19.2,
+                    "right": 72.8,
+                    "bottom": 66.3677130044843
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "3FXG0F5EV1973WKKVYPR474760HAZX03",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 21.41254236879905,
+                    "left": 19.933333333333337,
+                    "right": 73.5333236694336,
+                    "bottom": 67.60089429504667
+                }
+            },
+            {
+                "id": "4FMPGXFC519W0E6XW4EKYCZ4JSS7KXAJ",
+                "isFixed": false,
+                "aspectRatio": 82.5,
+                "positioning": {
+                    "top": 90.13452914798206,
+                    "left": 6.666666666666667,
+                    "right": 5.866666666666666,
+                    "bottom": 8.968609865470851
+                },
+                "backgroundColor": "#ff0146e0"
+            },
+            {
+                "id": "ZGG6HKGQZTBS4B6PPFRPRBEVVSH22HD2",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 78.02690582959642,
+                    "left": 6.666666666666667,
+                    "right": 88.26666666666667,
+                    "bottom": 13.452914798206278
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "3QF744CA7X8RERX4TWGTRNC1BGB7TT7P",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 15,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "aspectRatio": 7.097560975609756,
+                "positioning": {
+                    "top": 73.54260089686099,
+                    "left": 13.866666666666665,
+                    "right": 9.066666666666666,
+                    "bottom": 8.968609865470851
+                },
+                "lineHeightPx": 17.578125,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "XYHDH8W8YZYAFPK8ER3HD3050CWGNAFR",
+                "isFixed": false,
+                "aspectRatio": 1.0588234954698228,
+                "positioning": {
+                    "top": 21.973094170403588,
+                    "left": 31.733333333333334,
+                    "right": 62.66666666666667,
+                    "bottom": 69.13303409456672
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "2S5E8G2ANG698Z5GNSNTTB52YB444FBH",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "cornerRadii": [
+                    12.244897482545133,
+                    12.244897482545133,
+                    12.244897482545133,
+                    12.244897482545133
+                ],
+                "positioning": {
+                    "top": 21.973094170403588,
+                    "left": 31.733333333333334,
+                    "right": 66.08888880411784,
+                    "bottom": 74.36472332531027
+                },
+                "borderRadius": 12.244897482545133,
+                "backgroundColor": "#ff0146e0"
+            },
+            {
+                "id": "4XK2Q99B4MWJFX79SQRX3GV3F8RW4RFH",
+                "isFixed": false,
+                "aspectRatio": 1.1428570594453984,
+                "cornerRadii": [
+                    10.714286079212123,
+                    10.714286079212123,
+                    10.714286079212123,
+                    10.714286079212123
+                ],
+                "positioning": {
+                    "top": 21.973094170403588,
+                    "left": 34.84444986979167,
+                    "right": 62.6666613260905,
+                    "bottom": 74.36472332531027
+                },
+                "borderRadius": 10.714286079212123,
+                "backgroundColor": "#ff0146e0"
+            },
+            {
+                "id": "FY51RYQBYYBR3QWG636AWSNFFGBY70VA",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "cornerRadii": [
+                    12.244897482545133,
+                    12.244897482545133,
+                    12.244897482545133,
+                    12.244897482545133
+                ],
+                "positioning": {
+                    "top": 27.20477869692405,
+                    "left": 31.733333333333334,
+                    "right": 66.08888880411784,
+                    "bottom": 69.1330387987898
+                },
+                "borderRadius": 12.244897482545133,
+                "backgroundColor": "#ff0146e0"
+            },
+            {
+                "id": "91D3Q7JW9NCBTXZ3XRMHN6N9732TNCAG",
+                "isFixed": false,
+                "aspectRatio": 1.1428570594453984,
+                "cornerRadii": [
+                    10.714286079212123,
+                    10.714286079212123,
+                    10.714286079212123,
+                    10.714286079212123
+                ],
+                "positioning": {
+                    "top": 27.20477869692405,
+                    "left": 34.84444986979167,
+                    "right": 62.6666613260905,
+                    "bottom": 69.1330387987898
+                },
+                "borderRadius": 10.714286079212123,
+                "backgroundColor": "#ff0146e0"
+            },
+            {
+                "id": "FZPTA5EDKGPG7CSGVDW3K6PQNRHSWJHB",
+                "width": 100,
+                "height": 72.53694581280789,
+                "isFixed": false,
+                "aspectRatio": 0.6366723259762309,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "AWRDD8YCF73Y61PQQ4TR2AK78VCEWZE4",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 24,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 5.838709677419355,
+                "positioning": {
+                    "top": 47.368421052631575,
+                    "left": 26.13333333333333,
+                    "right": 26.13333333333333,
+                    "bottom": 47.70797962648557
+                },
+                "lineHeightPx": 28.125,
+                "letterSpacing": -0.12,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "C007AJHXS7BJQZPTEQMVN7XCQAAF6SSY",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 2.52212389380531,
+                "positioning": {
+                    "top": 56.36672325976231,
+                    "left": 12.266666666666666,
+                    "right": 12.266666666666666,
+                    "bottom": 24.78777589134126
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "BEVYG6HB7JMP4F5T26VT79MMDBA32TQR",
+                "isFixed": false,
+                "scaleMode": "fit",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.95755517826825,
+                    "left": 40,
+                    "right": 39.733333333333334,
+                    "bottom": 62.13921901528013
+                }
+            },
+            {
+                "id": "KWS5KJSJE2NRHXXBZHTM2WSQ48T6N9RG",
+                "color": "#ffabacab",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 92.48768472906403,
+                    "left": 18.133333333333333,
+                    "right": 14.133333333333335,
+                    "bottom": 1.354679802955665
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603S1A99S0MKRX805Z15F"
+            },
+            {
+                "id": "ZKC8MXBRBTYVVRYX9497P91A4W3CKKGC",
+                "isFixed": false,
+                "aspectRatio": 4.433333333333334,
+                "positioning": {
+                    "top": 46.30541871921182,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 46.30541871921182
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "24B9WT1JD2XNYJFQ32JZKHV1N4YWSN45",
+                "isFixed": false,
+                "aspectRatio": 4.433333333333334,
+                "borderColor": "#ff0146e0",
+                "borderWidth": 1.1278195488721805,
+                "positioning": {
+                    "top": 46.30541871921182,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 46.30541871921182
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "P4FZGMA29NENQBD9VMQM9N7RE3W585F4",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 2.306451612903226,
+                "positioning": {
+                    "top": 46.30541871921182,
+                    "left": 33.06666666666666,
+                    "right": 29.333333333333332,
+                    "bottom": 46.30541871921182
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "2ERC3F9C3PJCFQQEH1499GFKK59A86F9",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 48.76847290640394,
+                    "left": 19.733333333333334,
+                    "right": 74.93333333333332,
+                    "bottom": 48.76847290640394
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "MFQD7P0BWQK1T5HW6F0K6PMER1NH448E",
+                "isFixed": false,
+                "aspectRatio": 4.433333333333334,
+                "positioning": {
+                    "top": 37.06896551724138,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 55.54187192118226
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "TS3CFEC8NM2509MCAADB78ZGQJHFW3T6",
+                "isFixed": false,
+                "aspectRatio": 4.433333333333334,
+                "borderColor": "#ff0146e0",
+                "borderWidth": 1.1278195488721805,
+                "positioning": {
+                    "top": 37.06896551724138,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 55.54187192118226
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "W904MN183EKQVNJSG95R4VNC3GA1TT0P",
+                "color": "#ff0146e0",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 2.306451612903226,
+                "positioning": {
+                    "top": 37.06896551724138,
+                    "left": 33.06666666666666,
+                    "right": 29.333333333333332,
+                    "bottom": 55.54187192118226
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "6K18K3D2JW7J0M8JQN1JPR4TM289SNNZ",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 39.532019704433495,
+                    "left": 19.733333333333334,
+                    "right": 74.93333333333332,
+                    "bottom": 58.00492610837439
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "5YDQ35MJSNP93M2C584H5VYZ0BH1CZ1G",
+                "isFixed": false,
+                "aspectRatio": 1.3333334048589087,
+                "positioning": {
+                    "top": 39.83990179347287,
+                    "left": 19.73334418932597,
+                    "right": 74.93332231839497,
+                    "bottom": 58.312807610175874
+                }
+            },
+            {
+                "id": "8HMSBJB5X9VB3T49JBY4FG61NHQCSS4P",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 40.35303776927769,
+                    "left": 21.5111111164093,
+                    "right": 76.7111111164093,
+                    "bottom": 58.82594417321858
+                }
+            },
+            {
+                "id": "NT24AHAYQK3QHKYBTDE0N0C0RAR39FNM",
+                "isFixed": false,
+                "aspectRatio": 4.433333333333334,
+                "positioning": {
+                    "top": 55.54187192118226,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 37.06896551724138
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "ZCPY23HNTMF42MP7RWY9MJ12DBQM45PF",
+                "isFixed": false,
+                "aspectRatio": 4.433333333333334,
+                "borderColor": "#ff490d82",
+                "borderWidth": 1.1278195488721805,
+                "positioning": {
+                    "top": 55.54187192118226,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 37.06896551724138
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "3Q01D0JGEFKT71ZVER96NSQXX9CJ9R10",
+                "color": "#ff490d82",
+                "isFixed": false,
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 3.2903225806451615,
+                "positioning": {
+                    "top": 55.54187192118226,
+                    "left": 26.666666666666668,
+                    "right": 19.466666666666665,
+                    "bottom": 37.06896551724138
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ4603RX0X7SJMZFXAMWZQ4T"
+            },
+            {
+                "id": "7YAJ0JXAQ8P451981QS9NNQGEMGXS9AE",
+                "isFixed": false,
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 58.00492610837439,
+                    "left": 19.733333333333334,
+                    "right": 74.93333333333332,
+                    "bottom": 39.532019704433495
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "0HW5B68Y2222W9DHN7FZME97M3KB2WD0",
+                "isFixed": false,
+                "aspectRatio": 0.9082568171610129,
+                "positioning": {
+                    "top": 58.117814839179886,
+                    "left": 20.333333333333336,
+                    "right": 75.26666666666667,
+                    "bottom": 39.644910784190515
+                }
+            }
+        ],
+        "data": {
+            "pages": [
+                {
+                    "id": "01ENQED68VKWME4JCR0T5A2364",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:page-visor"
+                    ],
+                    "body": [
+                        {
+                            "id": "01ENQED68YTNGC4JEWKENQ75XG",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01ENQED690XZ7BWQGK5KPG0A4A",
+                                    "name": "Dark mask",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "dev:fill"
+                                    ],
+                                    "assetId": "01EZ9P9G1WKRG2QC8NHQ6M38CC",
+                                    "styleId": "KYYZMBA0S95GVM58NW2Z7CA7MVG7KGTC"
+                                },
+                                {
+                                    "id": "01ENQED6926FWDN2PMNQZEEF4A",
+                                    "name": "VECTOR",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "dev:visor"
+                                    ],
+                                    "assetId": "01EZ9P9G1XHQA9BCWM8YQQWEG5",
+                                    "styleId": "G5N9QSC99A01A45HZN7ET0KRGV9A1BVJ"
+                                },
+                                {
+                                    "id": "01ENQED693MYB2DXDCJZBJT9XX",
+                                    "name": "Scan QR Code",
+                                    "type": "component:text",
+                                    "styleId": "HH4RQ5F0NQA9Y0H9S4QQZMGYWQJJ8244",
+                                    "text": {
+                                        "en": "Scan QR Code"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01ENQED6943KGG7DCQVKAZ4NG7",
+                                    "name": "RECTANGLE",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:close"
+                                    ],
+                                    "styleId": "CCY7N9ZFA9GGNTJNWED8DE6J1VCRD84Q",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01ENQED6943KGG7DCQVKAZ4NG7",
+                                            "requestId": null,
+                                            "action": "close"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01ENQED695P3SNC7B56926JGK7",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G1ZCV5A9SCJ42B6VQM2",
+                                    "styleId": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY"
+                                },
+                                {
+                                    "id": "01ENQED696XSDKPXD1K4T8W8DA",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G25N38PT7F0R0F3YB0Y",
+                                    "styleId": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01EM68CN37D2QKWSF9VNAQSG85",
+                    "name": "Sample list",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:pullToRefresh",
+                        "refresh:pull",
+                        "transition:move:up"
+                    ],
+                    "remote": "https://apps-service.bravostudio.app/devices/apps/01DZ4603RKEVSFT7ST3YCM592G/node/01EM68CN37D2QKWSF9VNAQSG85"
+                },
+                {
+                    "id": "01EB1F6T0QDXJ9DB7YMP18H773",
+                    "name": "dont touch!!",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:page-scanned-apps"
+                    ],
+                    "background": {
+                        "id": "01EB1F6T7B2SF0EYP67TZSF4PG",
+                        "name": "dont touch!! Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01EB1F6T7CC2M3DGE9A22Z84B9",
+                                "name": "dont touch!! Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "04XV685Z7YNJWTZFCJZ0G0KX7VARQZ1D"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01EB1F6T0VF2EJC03W4H8GBVW8",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "BB11QNBREWYTBZ4N3J9QD16CE7MSPP54",
+                        "components": [
+                            {
+                                "id": "01EB1F6T0WC1KG9VQEZ24HJASP",
+                                "name": "RECTANGLE",
+                                "type": "component:color",
+                                "tags": [
+                                    "action:close"
+                                ],
+                                "styleId": "JDYJ08EQ4BJ7B7K9FCFTQ8ZK8XD91EJB",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01EB1F6T0WC1KG9VQEZ24HJASP",
+                                        "requestId": null,
+                                        "action": "close"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "01EB1F6T0XKDRB8GYC7RDJ4P4D",
+                                "name": "Vector",
+                                "type": "component:svg",
+                                "assetId": "01EZ9P9G3BTFXVS06HMMZNHX9V",
+                                "styleId": "M8ZE8S1T88T2K98YEY7MFYR9PHK3TR9B"
+                            },
+                            {
+                                "id": "01EB1F6T0YTQ6HFHT8MGXRM9Z8",
+                                "name": "Vector",
+                                "type": "component:svg",
+                                "assetId": "01EZ9P9G3HDTC6JYAA0BAMR778",
+                                "styleId": "M8ZE8S1T88T2K98YEY7MFYR9PHK3TR9B"
+                            },
+                            {
+                                "id": "01EB1F6T0ZYG0445R5326DGRSW",
+                                "name": "Scanned Apps",
+                                "type": "component:text",
+                                "styleId": "7F1P287F89SBW67ZR6DHJED15Z6KJJGH",
+                                "text": {
+                                    "en": "Scanned Apps"
+                                },
+                                "format": "plain"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01EB1F6T10XRD1KX90JBJHEFV4",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "styleId": "FEWKB9ET6C0547ABQ4THT9Q8MABA9RY3",
+                            "components": [
+                                {
+                                    "id": "01EZ9P9G3KYG8WQQ2HTA5ZXX4B",
+                                    "name": "App icon",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G3KYP2P8E57GHP6ACT8",
+                                    "styleId": "N2D7H9T80TSRDTEBD24D92PSPBSKJCH1"
+                                },
+                                {
+                                    "id": "01EB1F6T13K76B9XNG33NS5RJN",
+                                    "name": "Title",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:scanned-title"
+                                    ],
+                                    "styleId": "00F6SY7H9NKPZBCTT99PFEM9ENN6PQSP",
+                                    "text": {
+                                        "en": "Cocktail Recipes appli..."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01EB1F6T130AWBTQE9X3JZWXYE",
+                                    "name": "Date",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:scanned-date"
+                                    ],
+                                    "styleId": "90EGN4G6CAPNV2RVB3Z65H9XV2NJSB0P",
+                                    "text": {
+                                        "en": "2 days ago"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01EB1F6T14M670GFYM0PW2VZYR",
+                                    "name": "Scan app",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:scanapp"
+                                    ],
+                                    "styleId": "SQHK78BA27YX1GHK1H9AQ6NG2JFKWZ69"
+                                },
+                                {
+                                    "id": "01EB1F6T145F4Q09AVY5J83QN4",
+                                    "name": "Showqr",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:showqr"
+                                    ],
+                                    "styleId": "N4MX2GEKFZP6HJ24Q9V4P8FBZ1AGT48C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46KENM6S76V2B2B663A4Z5",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "error:default"
+                    ],
+                    "background": {
+                        "id": "01DZ46KERGSWTKNHEBQCY9613B",
+                        "name": "FRAME Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46KERGJAKT8EHA9TE4AWY3",
+                                "name": "FRAME Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "WHVBSGEJRB0AYR738SN2A13B5G4E8WCD"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46KENM2WX052D79EP2XHNA",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "458X6PJW24Y8JZY5PC5VKC5D9G32G4TR",
+                        "components": [
+                            {
+                                "id": "01DZ46KENNMGMAP96ASTX4EPKW",
+                                "name": "GROUP",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:close"
+                                ],
+                                "assetId": "01EZ9P9G41631GBR5D16H4X8VS",
+                                "styleId": "B84GAPZFEBBYZHRPGBG88JWG45DPG6YR",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01DZ46KENNMGMAP96ASTX4EPKW",
+                                        "requestId": null,
+                                        "action": "close"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46KENPTWETSQC9X4R3VDR5",
+                            "name": "scan button",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01DZ46KENPZYXBBM9BN74JD3GC",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "M2C65T0FKZWHQ7DA27513E4WJBFAN0AV",
+                                    "text": {
+                                        "en": "Something really bad happened"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KENPQB85J7SG4PZ39761",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "YJJM15D9C4FMCCX3CXP0YASENF35GXN5",
+                                    "text": {
+                                        "en": "Oops!"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KENPB0H0DQZXWXNY9D00",
+                                    "name": "expressionless-face_1f611 1",
+                                    "type": "component:color",
+                                    "styleId": "0S2C79GMX63ECQ610J3X9PVPSR3ZXBJ8"
+                                },
+                                {
+                                    "id": "01EM68CN4S5GM9ETTJ16M65K1E",
+                                    "name": "image 1",
+                                    "type": "component:gif",
+                                    "assetId": "01EM68CNE1XAAE3P55JZJTCDKA",
+                                    "styleId": "HJDMQQT0AH6QMXG43NZNVGEM06SXD7D5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46KENQ03J2HDXHCZWYCRX6",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "loading"
+                    ],
+                    "background": {
+                        "id": "01DZ46KERN5ZFKZYW732PPNTKH",
+                        "name": "FRAME Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46KERNXQY19DYWH37NPP6S",
+                                "name": "FRAME Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "PN985DT161ZF54QWQ6JR43K0HRKRDWE0"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46KENRDY453H6QZE7B7HTD",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "458X6PJW24Y8JZY5PC5VKC5D9G32G4TR"
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46KENSKK03R16RT1N0D9AH",
+                            "name": "scan button",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01DZ46KENSXGHH3JNBVD2Q0NE7",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "G93PH920J04HDX8W9DSEJHFYA7FPTHPS",
+                                    "text": {
+                                        "en": "Loading.."
+                                    },
+                                    "format": "plain"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46KENVEYVQKEQ3MM6ZR0MX",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "error:remotePage"
+                    ],
+                    "background": {
+                        "id": "01DZ46KERRBS6QNHQB2R04QW80",
+                        "name": "FRAME Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46KERRP5FMZY3ZBERM13MP",
+                                "name": "FRAME Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "HPQTT8WFX0X59VTF0C2JXD7N7MNBD9MG"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46KENV7Z2MMJNXJQ982NCT",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "458X6PJW24Y8JZY5PC5VKC5D9G32G4TR",
+                        "components": [
+                            {
+                                "id": "01DZ46KENV18HXQHB09BHYFCSP",
+                                "name": "GROUP",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:goBack"
+                                ],
+                                "assetId": "01EZ9P9G4CYFTDS8HCJFNYY41G",
+                                "styleId": "WFRXSZ7RQTJVS5E7KGAZMHSBY50SP2FH"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46KENWHTX8KRDRJJF26Q6G",
+                            "name": "scan button",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01DZ46KENWJDABQ93S113CNTG0",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "KW8DXGJPNDE1XKT42456J0P2Z551NTRB",
+                                    "text": {
+                                        "en": "An error happened loading remote page"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KENXHKPWFSVRYXCZJP8B",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:errorInfo"
+                                    ],
+                                    "styleId": "Q5WGS60YQ1E6TNBF8Z84MYKKZ88S7J93",
+                                    "text": {
+                                        "en": "<errorInfo>"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KENXRW1KXGJXR7MQ83FF",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "YJJM15D9C4FMCCX3CXP0YASENF35GXN5",
+                                    "text": {
+                                        "en": "Oops!"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KENYTR42HBRJSTVF20JV",
+                                    "name": "expressionless-face_1f611 1",
+                                    "type": "component:color",
+                                    "styleId": "0S2C79GMX63ECQ610J3X9PVPSR3ZXBJ8"
+                                },
+                                {
+                                    "id": "01DZ46KENYAMS3HVH7ZJV93H4E",
+                                    "name": "image 1",
+                                    "type": "component:image",
+                                    "assetId": "01DZ46KERS1QMAPV9N6YECWFJS",
+                                    "styleId": "20F24AJTTFV699PTKM9A77QVGEE430QP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46KENYNYMS2D308JSG8TK5",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "error:noConnection"
+                    ],
+                    "background": {
+                        "id": "01DZ46KERSRJ64YDX7JEHYVMMB",
+                        "name": "FRAME Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46KERS79GDRPT0R0NYWDYF",
+                                "name": "FRAME Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "D6Z7CZBBSDR82CWVX6KVGWAEFBK1XCZB"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46KENYES2RDWJMGBZ8WTJS",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "458X6PJW24Y8JZY5PC5VKC5D9G32G4TR",
+                        "components": [
+                            {
+                                "id": "01DZ46KENZAWAMS1G8G0387YC2",
+                                "name": "GROUP",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:close",
+                                    "dev:noConnectionBack"
+                                ],
+                                "assetId": "01EZ9P9G4KBN1MCGCFM9Y34G7F",
+                                "styleId": "B84GAPZFEBBYZHRPGBG88JWG45DPG6YR",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01DZ46KENZAWAMS1G8G0387YC2",
+                                        "requestId": null,
+                                        "action": "close"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46KENZZBDBV15K4P30KNR1",
+                            "name": "scan button",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01DZ46KENZ4VQ69YXN1AJ2BHBX",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "9H7KCPHZTK4T22N0Z06QQWAC6W6901GJ",
+                                    "text": {
+                                        "en": "You are offline. Please connect to a network!"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KEP0FDDH3H5ETV9SMJAT",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "4876N9FPFRF5XYAJST8DBJWHNH49JNFD",
+                                    "text": {
+                                        "en": "Oops!"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ46KEP0TQ6YSBX0M6QK9640",
+                                    "name": "image 1",
+                                    "type": "component:image",
+                                    "tags": [
+                                        "dev:noConnectionImage"
+                                    ],
+                                    "assetId": "01DZ46KERV0650MV99395DHFR5",
+                                    "styleId": "S48M7D1VTTYMF8YSS7573BJ16G68NC0T"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01E0YYWVYMXGGM7JFZCY580ACQ",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "error:noCamera"
+                    ],
+                    "background": {
+                        "id": "01E0YYWW2W1D7JC96FKVM0H1PC",
+                        "name": "FRAME Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01E0YYWW2WZDZFCPN5ZQ7R5K4K",
+                                "name": "FRAME Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "PN985DT161ZF54QWQ6JR43K0HRKRDWE0"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01E0YYWVYN50Y60G89SQ6V56HN",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "458X6PJW24Y8JZY5PC5VKC5D9G32G4TR",
+                        "components": [
+                            {
+                                "id": "01E0YYWVYN4VWFPQ8M2JXXWD3T",
+                                "name": "GROUP",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:close"
+                                ],
+                                "assetId": "01EZ9P9G4TDVN62C8XWVAVDGCS",
+                                "styleId": "B84GAPZFEBBYZHRPGBG88JWG45DPG6YR",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01E0YYWVYN4VWFPQ8M2JXXWD3T",
+                                        "requestId": null,
+                                        "action": "close"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01E0YYWVYWV8GPMFTRXHF7A1EZ",
+                            "name": "scan button",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01E0YYWVYW6DJ3AV2YGPHWMV5J",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "5F0227M953G3XCA8TW7DA37192WNQC4C",
+                                    "text": {
+                                        "en": "Bravo Vision does not have access to the camera"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E0YYWVYWDCYE4JQKZD77YQ9Z",
+                                    "name": "scan your app text",
+                                    "type": "component:text",
+                                    "styleId": "YJJM15D9C4FMCCX3CXP0YASENF35GXN5",
+                                    "text": {
+                                        "en": "Oops!"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E0YYWVZ1A24JY64JMP8FNR1S",
+                                    "name": "expressionless-face_1f611 1",
+                                    "type": "component:color",
+                                    "styleId": "0S2C79GMX63ECQ610J3X9PVPSR3ZXBJ8"
+                                },
+                                {
+                                    "id": "01E0YYWVZ1FTA82436T096MPCN",
+                                    "name": "image 1",
+                                    "type": "component:image",
+                                    "assetId": "01DZ46KERP92HMZN0HN2RZ422S",
+                                    "styleId": "HJDMQQT0AH6QMXG43NZNVGEM06SXD7D5"
+                                },
+                                {
+                                    "id": "01E0YYWVZ1Q96H6AKNXD98T84Y",
+                                    "name": "RECTANGLE",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:appSettings"
+                                    ],
+                                    "styleId": "VY9CVYCWP35Q64ZG3DGKPK0G7W244MP1"
+                                },
+                                {
+                                    "id": "01E0YYWVZ95EGXBED7B96XT64Q",
+                                    "name": "Rectangle 4",
+                                    "type": "component:color",
+                                    "styleId": "H7XPVTYS31GBY2Z9H65FKVSFXWD82XZA"
+                                },
+                                {
+                                    "id": "01E0YYWVZAMSEANWE5DJR53A7K",
+                                    "name": "Back to Home",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:appSettings"
+                                    ],
+                                    "styleId": "65FSPQVPK14VJVMED33HF3THK6E9DCGZ",
+                                    "text": {
+                                        "en": "Enable Camera Access"
+                                    },
+                                    "format": "plain"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ4603RSV1373FHE4MZ6ANE5",
+                    "name": "Onboarding 1",
+                    "type": "page:default",
+                    "tags": [
+                        "intro:once"
+                    ],
+                    "intro": "once",
+                    "body": [
+                        {
+                            "id": "01DZ4603RVYXNQWKYZG4SJT28D",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "4RYR6BY2D5Z374DMF15RMHNGVPWRR207",
+                            "background": {
+                                "id": "01DZ4603VV7JBFBGD20KTW87Q1",
+                                "name": "FRAME Background",
+                                "type": "container:background",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                                "components": [
+                                    {
+                                        "id": "01DZ4603VWHWPGZAMGKAD2BYPH",
+                                        "name": "FRAME Background (SOLID)",
+                                        "type": "component:color",
+                                        "tags": [
+                                            "bravo:layer"
+                                        ],
+                                        "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "id": "01DZ4603RVE2SZG446K35YT16V",
+                                    "name": "dots",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G535RQ1FZBPQ9AN7PAX",
+                                    "styleId": "912P6XDW2JT52YNE1SM6N7FP8S69Q9FQ"
+                                },
+                                {
+                                    "id": "01DZ4603RXNRJDS4R3E2M9EPY6",
+                                    "name": "Next",
+                                    "type": "component:text",
+                                    "href": "01DZ4603S2KXTDSCEEE5KJYQTW",
+                                    "styleId": "VW30W6NKCN56QCE6HXP2125DEWJQAG4V",
+                                    "text": {
+                                        "en": "Next"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603RY0VJ3NVP45MVHZMGZ",
+                                    "name": "Welcome to Bravo Vision",
+                                    "type": "component:text",
+                                    "styleId": "MFASKT9T87W42MN50E1S1S5239S6ESKS",
+                                    "text": {
+                                        "en": "Welcome to Bravo Vision"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01EZ9P9G54JA81X2ZSC3ANXXT2",
+                                    "name": "Group 68",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G55EPMCQG6S5C7TZHRR",
+                                    "styleId": "CH5934EYCRSR1Y9C247FDCYHR1BN45FR"
+                                },
+                                {
+                                    "id": "01DZ4603S16558QYEBP7VV06S9",
+                                    "name": "Preview your Bravo app projects right on your phone.",
+                                    "type": "component:text",
+                                    "styleId": "5RWPTCK5CSH7VBHAKGQBM4WN6A6D03Y4",
+                                    "text": {
+                                        "en": "Preview your Bravo app projects right on your phone."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603S1PCME94E7V5NBY2AP",
+                                    "name": "icon-1024@2x",
+                                    "type": "component:image",
+                                    "assetId": "01DZ4603VYV9Q6WJK9XHDRGKG4",
+                                    "styleId": "VDTPS1FYWNE078GJAXHZ81SCA242SCSR"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ4603S2KXTDSCEEE5KJYQTW",
+                    "name": "Onboarding 2",
+                    "type": "page:default",
+                    "body": [
+                        {
+                            "id": "01DZ4603S3TG3TR3JZ0B5002S1",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "KPCD6XH877E216QXGE8CBWEMQRDDWCTV",
+                            "background": {
+                                "id": "01DZ4603VZ8XXJP4V6Y9EHCHWR",
+                                "name": "FRAME Background",
+                                "type": "container:background",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                                "components": [
+                                    {
+                                        "id": "01DZ4603VZ77AX3GHBYEAZJ07S",
+                                        "name": "FRAME Background (SOLID)",
+                                        "type": "component:color",
+                                        "tags": [
+                                            "bravo:layer"
+                                        ],
+                                        "styleId": "Z7FQ2Y25TC4CYDQAT24V3N3TVKVPTV30"
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "id": "01DZ4603S3FXBE57J0FYA38RZ2",
+                                    "name": "dots",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G59V5C8DG92RD98AP5H",
+                                    "styleId": "912P6XDW2JT52YNE1SM6N7FP8S69Q9FQ"
+                                },
+                                {
+                                    "id": "01DZ4603S42FMRNG48TNCCBE64",
+                                    "name": "Next2",
+                                    "type": "component:text",
+                                    "href": "01DZ4603S71FTNQC9CCDH1XFW2",
+                                    "styleId": "VMYXHXRJ9R1D5ES1FB8074P5F9JTBTKM",
+                                    "text": {
+                                        "en": "Next"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603S4H7M2Z4RZHQ3WZ132",
+                                    "name": "Tap and hold to exit or update",
+                                    "type": "component:text",
+                                    "styleId": "0G04GBKAE12CEXBJR37446AA4ZPH8VQJ",
+                                    "text": {
+                                        "en": "Tap and hold\nto exit or update"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603S4XMEVBCMDH38Q6BYW",
+                                    "name": "A pop-up screen will appear with the options to exit or update the current app.",
+                                    "type": "component:text",
+                                    "styleId": "MB6436W3W1AH7WPJRBERDKPQ2BD7B69S",
+                                    "text": {
+                                        "en": "A pop-up screen will appear with the options to exit or update the current app."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01EZ9P9G5B8WY18PCTKVBHTS4F",
+                                    "name": "Group 68",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G5C243CF3FATE1E4M07",
+                                    "styleId": "6EXNC0YTFBQHKMBD7BJSR90899RJMR6B"
+                                },
+                                {
+                                    "id": "01DZ4603S6QA1E41RZJXVGJ942",
+                                    "name": "Arrow 1 (Stroke)",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G5DJNRA30ZCFZ4995S8",
+                                    "href": "01DZ4603RSV1373FHE4MZ6ANE5",
+                                    "styleId": "EYRBT3VKR9Y03NQWHEEA4S0X8D8R3YED"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ4603S71FTNQC9CCDH1XFW2",
+                    "name": "Onboarding 3",
+                    "type": "page:default",
+                    "body": [
+                        {
+                            "id": "01DZ4603S88HWQF0993KY23R1B",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "PHX53X9TVSNQ9YJCAT58D63E4N10N4AH",
+                            "background": {
+                                "id": "01DZ4603W15NCWQAQXWQ16P3GG",
+                                "name": "FRAME Background",
+                                "type": "container:background",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                                "components": [
+                                    {
+                                        "id": "01DZ4603W2WJ9XWDR6QEA48330",
+                                        "name": "FRAME Background (SOLID)",
+                                        "type": "component:color",
+                                        "tags": [
+                                            "bravo:layer"
+                                        ],
+                                        "styleId": "D6Z7CZBBSDR82CWVX6KVGWAEFBK1XCZB"
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "id": "01DZ4603S814ZVJ6VVNE1WBSWH",
+                                    "name": "dots",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G5JQV5XEBF9WJ4RFXHE",
+                                    "styleId": "912P6XDW2JT52YNE1SM6N7FP8S69Q9FQ"
+                                },
+                                {
+                                    "id": "01DZ4603S9FSGFSCHVV5XPVJED",
+                                    "name": "Start",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:closeIntro"
+                                    ],
+                                    "href": "01E25XRF6WV837K100GSPK07T9",
+                                    "styleId": "Y6Z96MZT9HS15KA9KC73AD5SAN83CEYT",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01DZ4603S9FSGFSCHVV5XPVJED",
+                                            "requestId": null,
+                                            "action": "closeintro"
+                                        }
+                                    },
+                                    "text": {
+                                        "en": "Start"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603S9YSBWH06HERWSBMGP",
+                                    "name": "Allow notifications so Bravo Vision syncs with changes made in Bravo Studio.",
+                                    "type": "component:text",
+                                    "styleId": "HPMTBB039Z5AXF7S7MRNBVYCB24HSC3W",
+                                    "text": {
+                                        "en": "Allow notifications so Bravo Vision syncs with changes made in Bravo Studio."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603SAV8NBBQD148THCJ47",
+                                    "name": "Connect to updates made in Bravo",
+                                    "type": "component:text",
+                                    "styleId": "JPSA184ZBYJP143NJQMQAAZN364D6JPM",
+                                    "text": {
+                                        "en": "Connect to updates made in Bravo"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01EZ9P9G5M39SVKZ4XPMXKRTVE",
+                                    "name": "Group 68",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G5MSFXSB4N54HJ4YS4K",
+                                    "styleId": "S2ADCNP8GAFNFZP8X8WMENMP5A3ECY0J"
+                                },
+                                {
+                                    "id": "01DZ4603SBB30BQD30WHVKP44C",
+                                    "name": "RECTANGLE",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "QMC77XH6RE05ARNMCQXPRTXWJZ4NTW35"
+                                },
+                                {
+                                    "id": "01DZ4603SB9MSSPQ1F8CNTWXQC",
+                                    "name": "button notifications",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "VFEFCB574646XF2P067C56F2681DN95K"
+                                },
+                                {
+                                    "id": "01DZ4603SB41KGN6VAG3GVVDSV",
+                                    "name": "Allow notifications",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "Z2NQ50D5JG2TACGTE8G7Q8ZW7ZVY75WF",
+                                    "text": {
+                                        "en": "Allow notifications"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603SCB1JFJJYKKV7S7XZM",
+                                    "name": "Arrow 1 (Stroke)",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G5Q20RK9RH84SDW9QZ4",
+                                    "href": "01DZ4603S2KXTDSCEEE5KJYQTW",
+                                    "styleId": "RXY9D6TFKQEMKA5PFX6AM84J4DW6EDNE"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01E25XRF6WV837K100GSPK07T9",
+                    "name": "Login",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:login"
+                    ],
+                    "background": {
+                        "id": "01E25XRFA4S3KAP9MS8VZSN3DN",
+                        "name": "Login Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01E25XRFA5VGFYQQHXH64K4AE1",
+                                "name": "Login Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01E25XRF6YARA4YHJQ5QFDNKF2",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01E25XRF6Z8TGMEPGVA7N09YJ3",
+                                    "name": "Sign in by email",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login"
+                                    ],
+                                    "styleId": "6PEXTGR5VRQJHZG3V6QER010PY00N4Z4",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01E25XRF6Z8TGMEPGVA7N09YJ3",
+                                            "requestId": null,
+                                            "action": "login"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01E25XRF6Z4KYATZDJAZD5V46X",
+                                    "name": "Rectangle 4",
+                                    "type": "component:color",
+                                    "styleId": "05F05W7QMH509YDSXHXWBREVMMCTTYYS"
+                                },
+                                {
+                                    "id": "01E25XRF6ZFMM70P26FN7JJKE2",
+                                    "name": "Login app",
+                                    "type": "component:text",
+                                    "styleId": "MZ1SN5CSV22RJFWPR3024ATPBCBMG4K7",
+                                    "text": {
+                                        "en": "Enter your email"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E25XRF7062TR626267Q8AW6Y",
+                                    "name": "Report a bug",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:openurl:https://codelesslabs.typeform.com/to/stHRKN"
+                                    ],
+                                    "styleId": "90FKK98WVG2ND4SBJ4SQJ89ZX0DD74SV",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {
+                                                "url": "https://codelesslabs.typeform.com/to/stHRKN"
+                                            },
+                                            "nodeId": "01E25XRF7062TR626267Q8AW6Y",
+                                            "requestId": null,
+                                            "action": "openurl"
+                                        }
+                                    },
+                                    "text": {
+                                        "en": "Report a bug"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E25XRF71JV1NX7WG7JG720D8",
+                                    "name": "Sign in with Apple",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login:apple"
+                                    ],
+                                    "styleId": "B5164VPSTF79Q05SXAMHA9H1T1S5B867",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {
+                                                "provider": "apple"
+                                            },
+                                            "nodeId": "01E25XRF71JV1NX7WG7JG720D8",
+                                            "requestId": null,
+                                            "action": "login"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01E25XRF72W59S98E8V18P7MZ0",
+                                    "name": "Rectangle 4",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "dev:ignore:ios"
+                                    ],
+                                    "styleId": "JYGJA2WW50J735DX3DEBV4DP20YA35RX"
+                                },
+                                {
+                                    "id": "01E25XRF72PQGJCB20FK9PQZJJ",
+                                    "name": "Login app",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:ignore:ios"
+                                    ],
+                                    "styleId": "HACSHBDYR9G0QKMYCKHPYGS6BZX0GZAC",
+                                    "text": {
+                                        "en": "Sign in with Apple"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E25XRF73MW5SKA6ZDZA056A5",
+                                    "name": "\uf8ff",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "dev:ignore:ios"
+                                    ],
+                                    "assetId": "01EZ9P9G61KQVX7SMNYN5D23WW",
+                                    "styleId": "X9D10Y0AW79ZBTGTW1PYS6MECT83B7W9"
+                                },
+                                {
+                                    "id": "01E25XRF74DFQNSEAH1S0K9GVB",
+                                    "name": "Sign in with Google",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login:google-oauth2"
+                                    ],
+                                    "styleId": "NP12YR6M5DDGY87N7GMH03PW4F7DBZJ7",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {
+                                                "provider": "google-oauth2"
+                                            },
+                                            "nodeId": "01E25XRF74DFQNSEAH1S0K9GVB",
+                                            "requestId": null,
+                                            "action": "login"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01E2BFNBFNY8V47ZP6PGSPJ0RN",
+                                    "name": "button bg",
+                                    "type": "component:color",
+                                    "styleId": "2YBEBT3XG8VZPNHX2NX69PXAX7JQ18C1"
+                                },
+                                {
+                                    "id": "01E25XRF7624BEV9F3KVB90FHM",
+                                    "name": "Sign in with Google",
+                                    "type": "component:text",
+                                    "styleId": "FATRSCYFQEY1ZA2DG693Y7EYNN7W9TP0",
+                                    "text": {
+                                        "en": "Sign in with Google"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E25XRF77B3T9WT3M5Q4AN6MT",
+                                    "name": "button bg copy",
+                                    "type": "component:color",
+                                    "styleId": "0J6K9PJY7YJTCV33GG652KNVGSBEPDJ8"
+                                },
+                                {
+                                    "id": "01E25XRF7713E231ZVMH1WZ6TQ",
+                                    "name": "logo_googleg_48dp",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G64SPE0FH33BQRTSYCG",
+                                    "styleId": "N7B5NFW03VM8HVNM4BM2JJWH908HN6NP"
+                                },
+                                {
+                                    "id": "01E25XRF78T824G838CCXN4K4V",
+                                    "name": "Sign in with Figma",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login:Figma"
+                                    ],
+                                    "styleId": "PC4B99PKD5BG635SVS0JY6A3JE5271W5",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {
+                                                "provider": "Figma"
+                                            },
+                                            "nodeId": "01E25XRF78T824G838CCXN4K4V",
+                                            "requestId": null,
+                                            "action": "login"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01E25XRF79SVV4ZRSRNQ2CC9QP",
+                                    "name": "button bg",
+                                    "type": "component:color",
+                                    "styleId": "Z8GMZPTG5YF5ZN1MFRCGWAQKQX2W0ANK"
+                                },
+                                {
+                                    "id": "01E25XRF79B52ZRKNXY3YWCW5E",
+                                    "name": "Artboard",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G66WZF5XZWC8NS46661",
+                                    "styleId": "HDDFBAMC02JRFMJC4VZMPVK6KFEFM3R8"
+                                },
+                                {
+                                    "id": "01E25XRF7AF8BGC9TG8X9Y01G2",
+                                    "name": "Sign in with Google",
+                                    "type": "component:text",
+                                    "styleId": "XZZ4E4B7WDKR85SZ72R95CVPSW272T2C",
+                                    "text": {
+                                        "en": "Sign in with Figma"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E25XRF7BW23BQQPFEAFKH8XK",
+                                    "name": "Get info",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "action:openIntro"
+                                    ],
+                                    "assetId": "01EZ9P9G679MSD3RXHB161W8ZJ",
+                                    "href": "01DZ4603SJRT87BYF5EVDCGH7K",
+                                    "styleId": "H5SF90PFKXP2S3ZPSDNBTNRJ4F5VS9J4",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01E25XRF7BW23BQQPFEAFKH8XK",
+                                            "requestId": null,
+                                            "action": "openintro"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01E25XRF7B0BKC9KSFTSGW0T7M",
+                                    "name": "Bravo Vision Title",
+                                    "type": "component:text",
+                                    "styleId": "RYRCA08HX38X2RMS15FK72DFV7PR1QZ8",
+                                    "text": {
+                                        "en": "Bravo Vision"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01E25XRF7C82YWM5SH9Q1K72N6",
+                                    "name": "Logo",
+                                    "type": "component:image",
+                                    "tags": [
+                                        "dev:scan"
+                                    ],
+                                    "assetId": "01DZ4603VYV9Q6WJK9XHDRGKG4",
+                                    "styleId": "5K59NGWZ2KJFJEWQ069TWT92Q11H02J7"
+                                },
+                                {
+                                    "id": "01E25XRF7DQ8WRTSGYC2J8X2W7",
+                                    "name": "OR",
+                                    "type": "component:text",
+                                    "styleId": "7CCNK1152YJW9P5E9ZADZ401RA37BH47",
+                                    "text": {
+                                        "en": "OR"
+                                    },
+                                    "format": "plain"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ4603SJRT87BYF5EVDCGH7K",
+                    "name": "About Vision",
+                    "type": "page:default",
+                    "background": {
+                        "id": "01DZ4603W563D9FB6DHC1EYHC8",
+                        "name": "About Vision Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ4603W6MT8YY1RY3RHMXPTA",
+                                "name": "About Vision Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "04XV685Z7YNJWTZFCJZ0G0KX7VARQZ1D"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZVN2KA2DSB8HE7E6FX6W79Y",
+                            "name": "Bravoized",
+                            "type": "container:default",
+                            "styleId": "VWXP4F83ZYY5AE81TADDT38RKGKPYCCE",
+                            "components": [
+                                {
+                                    "id": "01DZVN2KA23WBV8C9CB5JJ9WBF",
+                                    "name": "RECTANGLE",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "display:fullscreen"
+                                    ],
+                                    "styleId": "K12EFYG9GSHG1X519AS7SC18ND8MW9TJ"
+                                },
+                                {
+                                    "id": "01DZ4603SKK51MPSVX96NMJ3KT",
+                                    "name": "About Bravo Vision",
+                                    "type": "component:text",
+                                    "styleId": "ZT64GA7B361WMWYCVG86B7A8CNGYGNY1",
+                                    "text": {
+                                        "en": "About Bravo Vision"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603SMC2RCZD66HBD5R8EW",
+                                    "name": "Sign in to Bravo Vision with your Bravo Studio account to access all of your app projects.",
+                                    "type": "component:text",
+                                    "styleId": "WMD40ZKX8B21NZB9749465BN8HTNA00R",
+                                    "text": {
+                                        "en": "Sign in to Bravo Vision with your Bravo Studio account to access all of your app projects."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603SMQHM201FNCRQ4QRR4",
+                                    "name": "Once signed in, select an app to test it out on your mobile phone.",
+                                    "type": "component:text",
+                                    "styleId": "XS35CCPBRFFH13PJFFXEZBYE4Y2G2ZBG",
+                                    "text": {
+                                        "en": "Once signed in, select an app to test it out on your mobile phone."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603SMKRSMPSKA4MXHMX3A",
+                                    "name": "log-in",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G6FN8587JMN0EZ22J6D",
+                                    "styleId": "XN28DWJX49663C1Q3X909Z6S4QH15Q18"
+                                },
+                                {
+                                    "id": "01DZ4603SNYJ246TV7MM4CAT4M",
+                                    "name": "Long press to activate a pop-up screen which allows you to update changes with Bravo Studio or exit the current app.",
+                                    "type": "component:text",
+                                    "styleId": "GP83G78KYQ827JGXRSDNGNJ5SRFS2QEV",
+                                    "richText": [
+                                        {
+                                            "text": "Long press",
+                                            "styleId": "RSW6RMJV4A7JJTX5EQ38BBG2KFRPFE8K"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "01DZ4603SRS8Y177MGAHK47R2W",
+                                    "name": "tap 1",
+                                    "type": "component:color",
+                                    "styleId": "S6MR494GEWWH8EK4XVKW99QH2G2B3DQP"
+                                },
+                                {
+                                    "id": "01DZ4603SRNQ0D9Q5C9SCZSMX9",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G6HX1VVKNVSZMMGQ1ZA",
+                                    "styleId": "WTCGRWSWZ91AN87HBKRWZ2E2PZZWM9N4"
+                                },
+                                {
+                                    "id": "01DZ4603STEZS6TCDS898CBWKQ",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G6P9BKTXVWGFR7R5C1X",
+                                    "styleId": "SPK5HAK1HM8G2EQYCQC3GGM6E42DCGSA"
+                                },
+                                {
+                                    "id": "01DZ4603SPZJVD716W0D8WTVER",
+                                    "name": "mobile",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G6Q55WZZH4DDG3KVTYE",
+                                    "styleId": "SPRQT4H9F1DVPRMXG9FCJ144ZYVC7YAY"
+                                },
+                                {
+                                    "id": "01DZVN2KA740VVBZF38BW2YQ7M",
+                                    "name": "close button",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:close"
+                                    ],
+                                    "href": "01E25XRF6WV837K100GSPK07T9",
+                                    "styleId": "F6MSRJSH80F6YMSE4N79RPWZ8AFGV1MA",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01DZVN2KA740VVBZF38BW2YQ7M",
+                                            "requestId": null,
+                                            "action": "close"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01DZVN2KA7GW71NDVHXEBJGCP0",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G6RFDT0P5HEATNWX36Y",
+                                    "styleId": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY"
+                                },
+                                {
+                                    "id": "01DZVN2KA8W2CYENB2QZ16NM5B",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G6SG018K959A5Y86NMG",
+                                    "styleId": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ4603SVXPPWQC5R9EPGJTT0",
+                    "name": "App list empty",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:pullToRefresh",
+                        "states:empty:projects"
+                    ],
+                    "background": {
+                        "id": "01DZ4603W7KRY0D50A78Z8PPRM",
+                        "name": "App list empty Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ4603W71VAZCD9B58RH8XCJ",
+                                "name": "App list empty Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ4603SVWJGJXFYDMM77TVSA",
+                        "name": "FRAME",
+                        "type": "container:top-bar",
+                        "styleId": "RV93E2CKMACKVSM460XT9ZW0GGCQEVCR",
+                        "background": {
+                            "id": "01EZ9P9GBKGQ3C8J0N8ACDC5KH",
+                            "name": "FRAME Background",
+                            "type": "container:background",
+                            "tags": [
+                                "bravo:layer"
+                            ],
+                            "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                            "components": [
+                                {
+                                    "id": "01EZ9P9GBKYS7KE5XT42S0KVFB",
+                                    "name": "FRAME Background (SOLID)",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "bravo:layer"
+                                    ],
+                                    "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                                }
+                            ]
+                        },
+                        "components": [
+                            {
+                                "id": "01DZVN2KA91AJ78KDMRGWA4GXY",
+                                "name": "FRAME",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:openintro"
+                                ],
+                                "assetId": "01EZ9P9G6Y4R7TQ371NPWGJEHP",
+                                "href": "01DZ4603RSV1373FHE4MZ6ANE5",
+                                "styleId": "JYXM0NE0ASY898WGNCHJ7K836K7MNFEB",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01DZVN2KA91AJ78KDMRGWA4GXY",
+                                        "requestId": null,
+                                        "action": "openintro"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "01DZ4603T0MSD16FJQHQWKQCZW",
+                                "name": "Title 2",
+                                "type": "component:text",
+                                "tags": [
+                                    "dev:scan"
+                                ],
+                                "styleId": "KC170QSFT8ZBH7QS66FBGJMB4HRAZ4R9",
+                                "text": {
+                                    "en": "Projects"
+                                },
+                                "format": "plain"
+                            },
+                            {
+                                "id": "01DZ4603T1CZVH9FK8YGXCKR33",
+                                "name": "log-out",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:logout"
+                                ],
+                                "assetId": "01EZ9P9G71M3NEXVNXEC6JV7JG",
+                                "styleId": "J1TZKTSX9QJ0E3VDNCDBBBS40JZ04TN2",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01DZ4603T1CZVH9FK8YGXCKR33",
+                                        "requestId": null,
+                                        "action": "logout"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "01DZ4603T32SHWSC0FDF90HV2B",
+                                "name": "message",
+                                "type": "component:color",
+                                "tags": [
+                                    "action:email:support@bravostudio.app"
+                                ],
+                                "styleId": "D40TEPVYQJHVJB6W15JSM0J2V0PKT3HE",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {
+                                            "email": "support@bravostudio.app"
+                                        },
+                                        "nodeId": "01DZ4603T32SHWSC0FDF90HV2B",
+                                        "requestId": null,
+                                        "action": "email"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "01DZ4603T3A413PRZ3FWEQ86QG",
+                                "name": "Vector",
+                                "type": "component:svg",
+                                "assetId": "01EZ9P9G72NX4NPZ49GDMKTEFZ",
+                                "styleId": "3FXG0F5EV1973WKKVYPR474760HAZX03"
+                            },
+                            {
+                                "id": "01EM68CN6T3AFDDWNQJ7Y9N094",
+                                "name": "Vector 1 (Stroke)",
+                                "type": "component:color",
+                                "styleId": "4FMPGXFC519W0E6XW4EKYCZ4JSS7KXAJ"
+                            },
+                            {
+                                "id": "01EZ9P9G737BCJJ5BS54EQC0B7",
+                                "name": "search",
+                                "type": "component:svg",
+                                "assetId": "01EZ9P9G74R7BWTT93JTT4SNK0",
+                                "styleId": "ZGG6HKGQZTBS4B6PPFRPRBEVVSH22HD2"
+                            },
+                            {
+                                "id": "01EM68CN6W4VE2NWZP9TCM45WV",
+                                "name": "Search",
+                                "type": "component:input-text",
+                                "tags": [
+                                    "action:filter"
+                                ],
+                                "styleId": "3QF744CA7X8RERX4TWGTRNC1BGB7TT7P",
+                                "actions": {
+                                    "tap": {
+                                        "event": "tap",
+                                        "params": {},
+                                        "nodeId": "01EM68CN6W4VE2NWZP9TCM45WV",
+                                        "requestId": null,
+                                        "action": "filter"
+                                    }
+                                },
+                                "text": {
+                                    "en": "Search"
+                                },
+                                "format": "plain"
+                            },
+                            {
+                                "id": "01EM68CN6WDC9Z6RCRVQ2Q98PJ",
+                                "name": "sample apps icon",
+                                "type": "component:color",
+                                "href": "01EM68CN37D2QKWSF9VNAQSG85",
+                                "styleId": "XYHDH8W8YZYAFPK8ER3HD3050CWGNAFR"
+                            },
+                            {
+                                "id": "01EM68CN6W5ZW8RVTN427B1AHV",
+                                "name": "Rectangle 113",
+                                "type": "component:color",
+                                "styleId": "2S5E8G2ANG698Z5GNSNTTB52YB444FBH"
+                            },
+                            {
+                                "id": "01EM68CN6YQJBSFRVZ5P8FBQBE",
+                                "name": "Rectangle 114",
+                                "type": "component:color",
+                                "styleId": "4XK2Q99B4MWJFX79SQRX3GV3F8RW4RFH"
+                            },
+                            {
+                                "id": "01EM68CN71BH4K7E9VEQ2PRW3H",
+                                "name": "Rectangle 115",
+                                "type": "component:color",
+                                "styleId": "FY51RYQBYYBR3QWG636AWSNFFGBY70VA"
+                            },
+                            {
+                                "id": "01EM68CN71X77Y4H1P3X9V2M39",
+                                "name": "Rectangle 116",
+                                "type": "component:color",
+                                "styleId": "91D3Q7JW9NCBTXZ3XRMHN6N9732TNCAG"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ4603T4TR4RG4E8S5R04XR4",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "FZPTA5EDKGPG7CSGVDW3K6PQNRHSWJHB",
+                            "components": [
+                                {
+                                    "id": "01DZ4603T5A5AHYBVBD5KG7VC1",
+                                    "name": "No projects yet!",
+                                    "type": "component:text",
+                                    "styleId": "AWRDD8YCF73Y61PQQ4TR2AK78VCEWZE4",
+                                    "text": {
+                                        "en": "No projects yet!"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603T5NSDCSDMEQFHTKV4E",
+                                    "name": "Sign in to Bravo Studio on the desktop browser to create your first app.",
+                                    "type": "component:text",
+                                    "styleId": "C007AJHXS7BJQZPTEQMVN7XCQAAF6SSY",
+                                    "text": {
+                                        "en": "Sign in to Bravo Studio on the desktop browser to create your first app."
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603T5BW3RQE0GM7JH1CGV",
+                                    "name": "image 2",
+                                    "type": "component:image",
+                                    "assetId": "01DZ4603W9Z1KZV3GPA9SB9EE5",
+                                    "styleId": "BEVYG6HB7JMP4F5T26VT79MMDBA32TQR"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ4603T6VVRA0F2RAKTXMQ64",
+                    "name": "App list",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:pullToRefresh",
+                        "refresh:pull",
+                        "states:default:projects"
+                    ],
+                    "start": true,
+                    "remote": "https://apps-service.bravostudio.app/devices/apps/01DZ4603RKEVSFT7ST3YCM592G/node/01DZ4603T6VVRA0F2RAKTXMQ64"
+                },
+                {
+                    "id": "01DZ4603TFN7DKDGQBA42X73G3",
+                    "name": "FRAME",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:page-unlink"
+                    ],
+                    "background": {
+                        "id": "01DZ4603WBM1QGXYS01SPHRGDK",
+                        "name": "FRAME Background",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ4603WBZ55GBG4T32M4WP71",
+                                "name": "FRAME Background (SOLID)",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ4603TG1A8VBNV0BBMJXZQR",
+                            "name": "FRAME",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "YMAJW9SF0647JXAM9PBFVVA18MX4491Q",
+                            "components": [
+                                {
+                                    "id": "01DZ4603THGSCFVVGZR9255234",
+                                    "name": "Version number",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:buildnumber"
+                                    ],
+                                    "styleId": "KWS5KJSJE2NRHXXBZHTM2WSQ48T6N9RG",
+                                    "text": {
+                                        "en": "Build number"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603TH3E929Q0D1C8Q8WEP",
+                                    "name": "Update with Bravo",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:update"
+                                    ],
+                                    "styleId": "ZKC8MXBRBTYVVRYX9497P91A4W3CKKGC",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01DZ4603TH3E929Q0D1C8Q8WEP",
+                                            "requestId": null,
+                                            "action": "update"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01DZ4603THBVZPVFGWRMBEMJ24",
+                                    "name": "Rectangle 4",
+                                    "type": "component:color",
+                                    "styleId": "24B9WT1JD2XNYJFQ32JZKHV1N4YWSN45"
+                                },
+                                {
+                                    "id": "01DZ4603TH51QXYF9X42Y5VNFM",
+                                    "name": "Update with Bravo",
+                                    "type": "component:text",
+                                    "styleId": "P4FZGMA29NENQBD9VMQM9N7RE3W585F4",
+                                    "text": {
+                                        "en": "Update with Bravo"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603TJW6E8VWH2XE46VQDA",
+                                    "name": "refresh",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G8MS7KC04ZGC8SKYBK7",
+                                    "styleId": "2ERC3F9C3PJCFQQEH1499GFKK59A86F9"
+                                },
+                                {
+                                    "id": "01DZ4603TJG727YZWD5WV782B0",
+                                    "name": "Exit app project",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:unlink"
+                                    ],
+                                    "href": "01DZ4603T6VVRA0F2RAKTXMQ64",
+                                    "styleId": "MFQD7P0BWQK1T5HW6F0K6PMER1NH448E",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01DZ4603TJG727YZWD5WV782B0",
+                                            "requestId": null,
+                                            "action": "unlink"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01DZ4603TM526SPVJENJNH2GDY",
+                                    "name": "Rectangle 4",
+                                    "type": "component:color",
+                                    "styleId": "TS3CFEC8NM2509MCAADB78ZGQJHFW3T6"
+                                },
+                                {
+                                    "id": "01DZ4603TMYJNXKT0RX32BPERN",
+                                    "name": "Exit app project",
+                                    "type": "component:text",
+                                    "styleId": "W904MN183EKQVNJSG95R4VNC3GA1TT0P",
+                                    "text": {
+                                        "en": "Exit app project"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603TMXKEP1Z9S5TMCF44E",
+                                    "name": "eye 1",
+                                    "type": "component:color",
+                                    "styleId": "6K18K3D2JW7J0M8JQN1JPR4TM289SNNZ"
+                                },
+                                {
+                                    "id": "01DZ4603TMWNE7Q0YH28XR4J90",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G8QMBGDZDVNWRBK9QGK",
+                                    "styleId": "5YDQ35MJSNP93M2C584H5VYZ0BH1CZ1G"
+                                },
+                                {
+                                    "id": "01DZ4603TN8TT73ERVFE05XD8D",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G8QHZEED9ATYN42P2V8",
+                                    "styleId": "8HMSBJB5X9VB3T49JBY4FG61NHQCSS4P"
+                                },
+                                {
+                                    "id": "01DZ4603TNPRMJ505877JAC8HD",
+                                    "name": "Enable notifications",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "NT24AHAYQK3QHKYBTDE0N0C0RAR39FNM"
+                                },
+                                {
+                                    "id": "01DZ4603TNZH5GE9JE7AKANNNW",
+                                    "name": "Rectangle 4",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "ZCPY23HNTMF42MP7RWY9MJ12DBQM45PF"
+                                },
+                                {
+                                    "id": "01DZ4603TP5PCQG274GCVC7YDA",
+                                    "name": "Enable automatic sync",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "3Q01D0JGEFKT71ZVER96NSQXX9CJ9R10",
+                                    "text": {
+                                        "en": "Enable automatic update"
+                                    },
+                                    "format": "plain"
+                                },
+                                {
+                                    "id": "01DZ4603TP8ZR8PRS70J5994D3",
+                                    "name": "zap 1",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "7YAJ0JXAQ8P451981QS9NNQGEMGXS9AE"
+                                },
+                                {
+                                    "id": "01DZ4603TPJ2HBK0PT5KR83047",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "assetId": "01EZ9P9G8S16XZPKG4C8R2Y4CP",
+                                    "styleId": "0HW5B68Y2222W9DHN7FZME97M3KB2WD0"
+                                },
+                                {
+                                    "id": "01DZ4603TSVYNJHD941DN2KE5N",
+                                    "name": "Close button",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:close"
+                                    ],
+                                    "styleId": "F6MSRJSH80F6YMSE4N79RPWZ8AFGV1MA",
+                                    "actions": {
+                                        "tap": {
+                                            "event": "tap",
+                                            "params": {},
+                                            "nodeId": "01DZ4603TSVYNJHD941DN2KE5N",
+                                            "requestId": null,
+                                            "action": "close"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "01DZ4603TSC8BZ82G09AB1ZS15",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G2PSDY0EBE634C90S2E",
+                                    "styleId": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY"
+                                },
+                                {
+                                    "id": "01DZ4603TTNENRAFRSW3M1QHPB",
+                                    "name": "Vector",
+                                    "type": "component:svg",
+                                    "assetId": "01EZ9P9G2QQJZZ5K91GABF6S62",
+                                    "styleId": "HCAFRM4A8Q1GRST6EKMQPHCJ8WPJMHEY"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

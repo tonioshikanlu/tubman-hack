@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="qr_scanner_info_text_margin">130dp</dimen>
+</resources>

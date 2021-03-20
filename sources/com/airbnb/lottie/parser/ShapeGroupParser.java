@@ -1,0 +1,40 @@
+package com.airbnb.lottie.parser;
+
+import com.airbnb.lottie.LottieComposition;
+import com.airbnb.lottie.model.content.ContentModel;
+import com.airbnb.lottie.model.content.ShapeGroup;
+import com.airbnb.lottie.parser.moshi.JsonReader;
+import java.util.ArrayList;
+
+public class ShapeGroupParser {
+    private static JsonReader.Options NAMES = JsonReader.Options.of("nm", "hd", "it");
+
+    private ShapeGroupParser() {
+    }
+
+    public static ShapeGroup parse(JsonReader jsonReader, LottieComposition lottieComposition) {
+        ArrayList arrayList = new ArrayList();
+        String str = null;
+        boolean z = false;
+        while (jsonReader.hasNext()) {
+            int selectName = jsonReader.selectName(NAMES);
+            if (selectName == 0) {
+                str = jsonReader.nextString();
+            } else if (selectName == 1) {
+                z = jsonReader.nextBoolean();
+            } else if (selectName != 2) {
+                jsonReader.skipValue();
+            } else {
+                jsonReader.beginArray();
+                while (jsonReader.hasNext()) {
+                    ContentModel parse = ContentModelParser.parse(jsonReader, lottieComposition);
+                    if (parse != null) {
+                        arrayList.add(parse);
+                    }
+                }
+                jsonReader.endArray();
+            }
+        }
+        return new ShapeGroup(str, arrayList, z);
+    }
+}

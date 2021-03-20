@@ -1,0 +1,9 @@
+package b.l.d.o;
+
+import androidx.annotation.NonNull;
+
+public class g extends h {
+    public g(@NonNull String str, @NonNull String str2) {
+        super(str, str2);
+    }
+}
