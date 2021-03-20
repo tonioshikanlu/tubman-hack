@@ -65,7 +65,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -88,9 +87,10 @@ This application is a trading platform that is built to foster mentorship, commu
 
 ### Built With
 
-* [Java]()
-* [Firebase]()
-* [Figma]()
+* Java (android version)
+* Swift UI (iOS version)
+* Firebase (database integration)
+* Figma (app prototypes)
 
 
 <!-- GETTING STARTED -->
@@ -116,13 +116,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Visit this [website](https://example.com) to interact with our demo application.
 
 
 
