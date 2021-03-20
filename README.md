@@ -80,7 +80,7 @@
 ## About The Project
 
 <a href="https://github.com/tonioshikanlu/tubman-hack">
-    <img src="tubman-sc.jpeg" alt="Logo" width="200" height="350">
+    <img src="tubman-sc.jpeg" alt="Logo" width="200" height="450">
   </a>
 
 This application is a trading platform that is built to foster mentorship, community and education among the black community.
