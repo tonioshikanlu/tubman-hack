@@ -168,10 +168,10 @@ Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Howard University SOB for setting up the Bison Hacks Hackathon! ]()
-* [All the sponsors!]()
-* [Accenture for their challange inspiration!]()
-* [Fiserv for their challange inspiration!]()
+* [Howard University SOB for setting up the Bison Hacks Hackathon! ]
+* [All the sponsors!]
+* [Accenture for their challange inspiration!]
+* [Fiserv for their challange inspiration!]
 
 
 
