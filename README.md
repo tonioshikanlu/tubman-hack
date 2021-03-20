@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@toni_osh](https://twitter.com/toni_osh) - toni.oshikanu9@gmail.com
+Your Name - [@toni_osh](https://twitter.com/T_Oshikanlu) - toni.oshikanu9@gmail.com
 
 Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/tonioshikanlu/tubman-hack)
 
