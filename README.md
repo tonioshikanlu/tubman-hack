@@ -180,7 +180,7 @@ Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tonioshikanlu/tubman-hack/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [contributors-url]: https://github.com/tonioshikanlu/tubman-hack/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/tonioshikanlu/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/tonioshikanlu/tubman-hack/network/members
