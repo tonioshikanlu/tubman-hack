@@ -4,9 +4,10 @@ import SwiftUI
 struct LandingView: View {
     var body: some View {
             VStack(alignment: .center, spacing: 10) {
-                Rectangle()
-                    .fill(Color(red: 0.50, green: 0.23, blue: 0.27, opacity: 0.50))
-                    .frame(width: 213, height: 226)
+                Image("tubman_logo")
+                    .resizable()
+                    .aspectRatio(contentMode: .fill)
+                    .frame(width: 190.0, height: 190, alignment: .center)
                 
                 Text("tubman")
                     .font(.largeTitle)

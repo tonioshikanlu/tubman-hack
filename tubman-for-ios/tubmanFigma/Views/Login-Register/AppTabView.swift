@@ -23,7 +23,7 @@ struct AppTabView: View {
             }.navigationBarHidden(true)
             .tag(1)
             
-            Dummy2().tabItem{
+            PortfolioView().tabItem{
                 Image(systemName:"arrow.up.forward.app")
             }.navigationBarHidden(true)
             .tag(2)

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC75F3652606362B0073DB7F /* PortfolioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC75F3642606362B0073DB7F /* PortfolioView.swift */; };
 		CD6F4250260603E400F67D77 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6F424F260603E400F67D77 /* LandingView.swift */; };
 		CDC1F2F22605FB9A00B54F99 /* tubmanFigmaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC1F2F12605FB9A00B54F99 /* tubmanFigmaApp.swift */; };
 		CDC1F2F62605FB9B00B54F99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDC1F2F52605FB9B00B54F99 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BC75F3642606362B0073DB7F /* PortfolioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioView.swift; sourceTree = "<group>"; };
 		CD6F424F260603E400F67D77 /* LandingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
 		CDC1F2EE2605FB9A00B54F99 /* tubmanFigma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tubmanFigma.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC1F2F12605FB9A00B54F99 /* tubmanFigmaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tubmanFigmaApp.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				CD6F424F260603E400F67D77 /* LandingView.swift */,
 				CDDF003A26061AE900247E49 /* Login-Register */,
 				CDDF0050260626E100247E49 /* CurrentUserProfileView.swift */,
+				BC75F3642606362B0073DB7F /* PortfolioView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				CDDF002F26061A2D00247E49 /* ContentView.swift in Sources */,
 				CDDF003F26061EA200247E49 /* EnvVar.swift in Sources */,
 				CDDF00222606183D00247E49 /* RegisterMainView.swift in Sources */,
+				BC75F3652606362B0073DB7F /* PortfolioView.swift in Sources */,
 				CD6F4250260603E400F67D77 /* LandingView.swift in Sources */,
 				CDDF00272606184900247E49 /* RegisterHelperView.swift in Sources */,
 			);
