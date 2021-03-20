@@ -88,11 +88,11 @@ This application is a trading platform that is built to foster mentorship, commu
 
 ### Built With
 
-* [Java](Java)
-* [Firebase](Firebase)
-* [Figma](Figma)
-* [Javascript](Javascript)
-* [HTML](HTML)
+* [Java]()
+* [Firebase]()
+* [Figma]()
+* [Javascript]()
+* [HTML]()
 
 
 
@@ -125,9 +125,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Visit this [website](https://example.com) to interact with our demo application.
 
 
 
@@ -161,7 +159,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@toni_osh](https://twitter.com/T_Oshikanlu) - toni.oshikanu9@gmail.com
+Repo Owner - [@toni_osh](https://twitter.com/T_Oshikanlu) - toni.oshikanu9@gmail.com
 
 Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/tonioshikanlu/tubman-hack)
 
