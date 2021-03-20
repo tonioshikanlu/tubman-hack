@@ -115,6 +115,8 @@ Tubman is a truly free market brokerage platform that is made for the people by 
 
 [Pitch Presentation](https://www.beautiful.ai/player/-MWAtFR5AfVTjf_JBkcW)
 
+[Prototype](https://www.figma.com/proto/yQ4DaxENXYiQi1tiWUb7aF/Tubman?node-id=22%3A42&scaling=scale-down)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
