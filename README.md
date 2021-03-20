@@ -84,6 +84,13 @@
 
 This application is a trading platform that is built to foster mentorship, community and education among the black community.
 
+### Problem
+
+We found out through research was that the black community severely lags behind the white community when it comes to participation in the stock market. This has led to an expansive wealth gap between the two communities which we hope our solution can help reduce. The black community lacks the adequate tools, knowledge and generational mentorship to succeed in the financial markets. In addition to the fact that most brokerage platforms are not truly free as they either sell the user data to bigger hedge funds for leverage or give these bigger instituitons the power to execute their user's trades for revenue. This shows how the current market really only exists to serve the top 1%. 
+
+### Solution
+
+Tubman is a truly free market brokerage platform that is made for the people by the people and is specifically aimed at building community, fostering mentorship and education among the black community. This will help in the upskilling of this community which has previously shied away from the markets because of fear and lack of knowledge. 
 
 ### Built With
 
