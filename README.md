@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](tubman-sc.jpeg)
+[![Product Name Screen Shot][product-screenshot]](https://imgur.com/wDlnl18)
 
 This application is a trading platform that is built to foster mentorship, community and education among the black community.
 
