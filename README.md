@@ -111,7 +111,7 @@ Tubman is a truly free market brokerage platform that is made for the people by 
 * Figma (app prototypes)
 
 ### Demo
-Video Link(https://youtu.be/wcEXKxaM0ek)
+[Video Link](https://youtu.be/wcEXKxaM0ek)
 
 
 <!-- GETTING STARTED -->
