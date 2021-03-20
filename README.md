@@ -182,13 +182,12 @@ Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [contributors-url]: https://github.com/tonioshikanlu/tubman-hack/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tonioshikanlu/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [forks-url]: https://github.com/tonioshikanlu/tubman-hack/network/members
-[stars-shield]: https://img.shields.io/github/stars/tonioshikanlu/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [stars-url]: https://github.com/tonioshikanlu/tubman-hack/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tonioshikanlu/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [issues-url]: https://github.com/tonioshikanlu/tubman-hack/issues
-[license-shield]: https://img.shields.io/github/license/tonioshikanlu/repo.svg?style=for-the-badge
 [license-url]: https://github.com/tonioshikanlu/tubman-hack/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/oluwatoni-oshikanlu-2a20b957/
