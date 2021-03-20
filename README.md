@@ -199,6 +199,6 @@ Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/tonioshikanlu/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/tonioshikanlu/repo/issues
 [license-shield]: https://img.shields.io/github/license/tonioshikanlu/repo.svg?style=for-the-badge
-[license-url]: https://github.com/tonioshikanlu/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/tonioshikanlu/tubman-hack/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/tonioshikanlu
+[linkedin-url]: https://www.linkedin.com/in/oluwatoni-oshikanlu-2a20b957/
