@@ -91,9 +91,6 @@ This application is a trading platform that is built to foster mentorship, commu
 * [Java]()
 * [Firebase]()
 * [Figma]()
-* [Javascript]()
-* [HTML]()
-
 
 
 <!-- GETTING STARTED -->
