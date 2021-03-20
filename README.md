@@ -188,6 +188,7 @@ Project Link: [https://github.com/tonioshikanlu/tubman-hack](https://github.com/
 [stars-url]: https://github.com/tonioshikanlu/tubman-hack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [issues-url]: https://github.com/tonioshikanlu/tubman-hack/issues
+[license-shield]: https://img.shields.io/github/license/tonioshikanlu/tubman-hack.svg?style=for-the-badge
 [license-url]: https://github.com/tonioshikanlu/tubman-hack/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/oluwatoni-oshikanlu-2a20b957/
